@@ -1,0 +1,42 @@
+{
+    "SLE": [
+        {
+            "NOC": "SLE",
+            "Athletics": "0.0255155313630765",
+            "Swimming": "0.0065141059084509",
+            "Gymnastics": "",
+            "Cycling": "0.0034078412230462",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "",
+            "Boxing": "0.117042110283307",
+            "Equestrianism": "",
+            "Judo": "",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.0601285694027933",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

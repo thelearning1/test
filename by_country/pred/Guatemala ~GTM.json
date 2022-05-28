@@ -1,0 +1,42 @@
+{
+    "GTM": [
+        {
+            "NOC": "GTM",
+            "Athletics": "0.0689676255530663",
+            "Swimming": "0.0051343010460847",
+            "Gymnastics": "0.0180170109420392",
+            "Cycling": "0.0208564188784591",
+            "Rowing": "0.0086971004297545",
+            "Shooting": "0.0543018890961493",
+            "Fencing": "0.0605831783715583",
+            "Canoeing": "0.160379513378376",
+            "Wrestling": "0.064074156278986",
+            "Football": "0.0098286215363044",
+            "Boxing": "0.2472588977714437",
+            "Equestrianism": "0.1122943742991237",
+            "Judo": "0.1799921308325492",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.0691706878675411",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "0.0425453256684466",
+            "Modern Pentathlon": "0.0701896350149385",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.2934529322780621",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

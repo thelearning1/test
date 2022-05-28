@@ -1,0 +1,42 @@
+{
+    "BHS": [
+        {
+            "NOC": "BHS",
+            "Athletics": "0.6980982174349094",
+            "Swimming": "0.0516827467051774",
+            "Gymnastics": "",
+            "Cycling": "0.0823381130988521",
+            "Rowing": "0.2888705603151228",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "0.0760002005537197",
+            "Football": "",
+            "Boxing": "0.2523649606976312",
+            "Equestrianism": "",
+            "Judo": "",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "0.043902734682293",
+            "Tennis": "0.1311822067426216",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "JOR": [
+        {
+            "NOC": "JOR",
+            "Athletics": "0.0845559697781702",
+            "Swimming": "0.0467281131389622",
+            "Gymnastics": "",
+            "Cycling": "",
+            "Rowing": "",
+            "Shooting": "0.124337877715842",
+            "Fencing": "0.0165502448847804",
+            "Canoeing": "",
+            "Wrestling": "0.1897271305149707",
+            "Football": "",
+            "Boxing": "0.2663077314048667",
+            "Equestrianism": "0.1728778437077038",
+            "Judo": "0.1738037715525482",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "0.0504432588104332",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "0.0022456233761171",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.406913003619327",
+            "Beach Volleyball": "",
+            "Triathlon": "0.1189896228372853",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

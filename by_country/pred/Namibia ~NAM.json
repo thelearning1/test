@@ -1,0 +1,42 @@
+{
+    "NAM": [
+        {
+            "NOC": "NAM",
+            "Athletics": "0.6451323255995326",
+            "Swimming": "0.0243234621108658",
+            "Gymnastics": "0.0001925576685887",
+            "Cycling": "0.0238817629452498",
+            "Rowing": "",
+            "Shooting": "0.0009666121723614",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "0.064074156278986",
+            "Football": "",
+            "Boxing": "0.0807849357396658",
+            "Equestrianism": "",
+            "Judo": "",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

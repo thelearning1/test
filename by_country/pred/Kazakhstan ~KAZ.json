@@ -1,0 +1,42 @@
+{
+    "KAZ": [
+        {
+            "NOC": "KAZ",
+            "Athletics": "0.2681891800393137",
+            "Swimming": "0.0733880956504085",
+            "Gymnastics": "0.0172977519430273",
+            "Cycling": "0.3893399534740839",
+            "Rowing": "0.0913830386936594",
+            "Shooting": "0.4122691050417845",
+            "Fencing": "0.0087707545681796",
+            "Canoeing": "0.027575278499652",
+            "Wrestling": "0.7126886422306923",
+            "Football": "",
+            "Boxing": "0.8008851610446882",
+            "Equestrianism": "",
+            "Judo": "0.2975311635093755",
+            "Basketball": "",
+            "Handball": "0.027041700874328",
+            "Volleyball": "0.1245841592423052",
+            "Weightlifting": "0.8607687747740789",
+            "Water Polo": "0.0084964725448417",
+            "Archery": "0.002828134514963",
+            "Diving": "0.0377169902491121",
+            "Tennis": "0.1311822067426216",
+            "Table Tennis": "0.006635090069644",
+            "Badminton": "",
+            "Modern Pentathlon": "0.4901891118479786",
+            "Sychronized Swimming": "0.0200505714996533",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "0.0721818949259307",
+            "Taekwondo": "0.2934529322780621",
+            "Beach Volleyball": "",
+            "Triathlon": "0.1406964632980937",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "0.4305629927872775",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

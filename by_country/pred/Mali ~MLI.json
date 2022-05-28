@@ -1,0 +1,42 @@
+{
+    "MLI": [
+        {
+            "NOC": "MLI",
+            "Athletics": "0.0403509657915115",
+            "Swimming": "0.0051343010460847",
+            "Gymnastics": "",
+            "Cycling": "",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "0.0004747689258205",
+            "Boxing": "0.0636001017096366",
+            "Equestrianism": "",
+            "Judo": "0.0683788808240928",
+            "Basketball": "0.0137637201794521",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.1873188881081771",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

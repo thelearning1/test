@@ -1,0 +1,42 @@
+{
+    "SVN": [
+        {
+            "NOC": "SVN",
+            "Athletics": "0.3476148284464633",
+            "Swimming": "0.0727632348068173",
+            "Gymnastics": "0.0261040196087414",
+            "Cycling": "0.0631994025849234",
+            "Rowing": "0.3253225887537304",
+            "Shooting": "0.5849261510338036",
+            "Fencing": "",
+            "Canoeing": "0.2801333119214786",
+            "Wrestling": "",
+            "Football": "",
+            "Boxing": "",
+            "Equestrianism": "",
+            "Judo": "0.5777988528531738",
+            "Basketball": "",
+            "Handball": "0.0236435331981256",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "0.0172837281198008",
+            "Diving": "",
+            "Tennis": "0.1136942966086578",
+            "Table Tennis": "0.0081408659734316",
+            "Badminton": "0.0201960491097638",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.2274369556508885",
+            "Beach Volleyball": "",
+            "Triathlon": "0.2466261467312806",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "ECU": [
+        {
+            "NOC": "ECU",
+            "Athletics": "0.2425370682832363",
+            "Swimming": "0.0511587199835851",
+            "Gymnastics": "0.0180170109420392",
+            "Cycling": "0.0468631166283065",
+            "Rowing": "0.2088828403291163",
+            "Shooting": "0.1089094467264685",
+            "Fencing": "",
+            "Canoeing": "0.3952483824074856",
+            "Wrestling": "0.064074156278986",
+            "Football": "",
+            "Boxing": "0.0385059600705997",
+            "Equestrianism": "0.2147239781591712",
+            "Judo": "0.1199164046988737",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.108602267700989",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "0.0377169902491121",
+            "Tennis": "0.0421220404165464",
+            "Table Tennis": "0.006635090069644",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.233563904769819",
+            "Beach Volleyball": "",
+            "Triathlon": "0.0236861801898457",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

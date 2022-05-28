@@ -1,0 +1,42 @@
+{
+    "KHM": [
+        {
+            "NOC": "KHM",
+            "Athletics": "0.0135186883900131",
+            "Swimming": "0.0027380820422638",
+            "Gymnastics": "",
+            "Cycling": "0.0323051574308943",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "0.0237923110422678",
+            "Football": "",
+            "Boxing": "0.1767354999688579",
+            "Equestrianism": "",
+            "Judo": "0.0042979754941869",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.233563904769819",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "CHL": [
+        {
+            "NOC": "CHL",
+            "Athletics": "0.0251520639817498",
+            "Swimming": "0.052422830892668",
+            "Gymnastics": "0.0352847467842415",
+            "Cycling": "0.0455029654439106",
+            "Rowing": "0.0611708501804485",
+            "Shooting": "0.2839097458047142",
+            "Fencing": "0.0605831783715583",
+            "Canoeing": "0.3580722210648401",
+            "Wrestling": "0.1967951675653282",
+            "Football": "0.8926811581627351",
+            "Boxing": "0.0946750192149334",
+            "Equestrianism": "0.0089168260576261",
+            "Judo": "0.1746816086322452",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.3381511867407515",
+            "Water Polo": "",
+            "Archery": "0.0525014051899454",
+            "Diving": "",
+            "Tennis": "0.7481974560871009",
+            "Table Tennis": "0.0029239295132766",
+            "Badminton": "",
+            "Modern Pentathlon": "0.0549606355016701",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.2710745930264996",
+            "Beach Volleyball": "0.083066399115956",
+            "Triathlon": "0.0333603368961951",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "0.0793278182201153",
+            "Hockey": ""
+        }
+    ]
+}

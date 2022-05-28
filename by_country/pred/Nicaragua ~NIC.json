@@ -1,0 +1,42 @@
+{
+    "NIC": [
+        {
+            "NOC": "NIC",
+            "Athletics": "0.0987335172241028",
+            "Swimming": "0.0511587199835851",
+            "Gymnastics": "",
+            "Cycling": "0.0238817629452498",
+            "Rowing": "",
+            "Shooting": "0.2163458439180565",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "0.0511406114944117",
+            "Football": "",
+            "Boxing": "0.2407058820223934",
+            "Equestrianism": "",
+            "Judo": "0.1799921308325492",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.1959584651901712",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "0.0002690500583548",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.2934529322780621",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

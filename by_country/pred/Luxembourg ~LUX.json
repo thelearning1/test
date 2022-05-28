@@ -1,0 +1,42 @@
+{
+    "LUX": [
+        {
+            "NOC": "LUX",
+            "Athletics": "0.0465147821346607",
+            "Swimming": "0.0058176695700941",
+            "Gymnastics": "0.016567169184497",
+            "Cycling": "0.0339678468868034",
+            "Rowing": "",
+            "Shooting": "0.0889892402718342",
+            "Fencing": "0.0432675427969728",
+            "Canoeing": "0.2401351183621327",
+            "Wrestling": "0.1897271305149707",
+            "Football": "",
+            "Boxing": "0.2663077314048667",
+            "Equestrianism": "",
+            "Judo": "0.1681618269935803",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.1996921470826415",
+            "Water Polo": "",
+            "Archery": "0.0504432588104332",
+            "Diving": "",
+            "Tennis": "0.241605538329789",
+            "Table Tennis": "0.0029239295132766",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "0.4685042483172486",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

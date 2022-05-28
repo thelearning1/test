@@ -1,0 +1,42 @@
+{
+    "KEN": [
+        {
+            "NOC": "KEN",
+            "Athletics": "0.778726234424319",
+            "Swimming": "0.0025405075223993",
+            "Gymnastics": "",
+            "Cycling": "0.00047984262477",
+            "Rowing": "0.3733344538681706",
+            "Shooting": "0.0299423047698799",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "0.0240060287299705",
+            "Football": "",
+            "Boxing": "0.4110547576515223",
+            "Equestrianism": "",
+            "Judo": "0.0795528825408799",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "0.0023244002226098",
+            "Weightlifting": "0.0154541527170876",
+            "Water Polo": "",
+            "Archery": "0.0318266430450876",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.233563904769819",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "0.0627090301354517",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": "0.0002619978136273"
+        }
+    ]
+}

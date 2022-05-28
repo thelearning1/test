@@ -1,0 +1,42 @@
+{
+    "LBY": [
+        {
+            "NOC": "LBY",
+            "Athletics": "0.1425363149227769",
+            "Swimming": "0.0356959190229506",
+            "Gymnastics": "",
+            "Cycling": "0.0823381130988521",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "",
+            "Boxing": "",
+            "Equestrianism": "",
+            "Judo": "0.2108918947587229",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.1996921470826415",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "0.006635090069644",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.3913655717925564",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

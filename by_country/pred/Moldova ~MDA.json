@@ -1,0 +1,42 @@
+{
+    "MDA": [
+        {
+            "NOC": "MDA",
+            "Athletics": "0.0302259598778458",
+            "Swimming": "0.0062237096475039",
+            "Gymnastics": "",
+            "Cycling": "0.0410489211505332",
+            "Rowing": "",
+            "Shooting": "0.6465238331803688",
+            "Fencing": "",
+            "Canoeing": "0.5486063337940275",
+            "Wrestling": "0.1787935144186548",
+            "Football": "",
+            "Boxing": "0.5930923878486812",
+            "Equestrianism": "",
+            "Judo": "0.1103433972109238",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.3643740706252793",
+            "Water Polo": "",
+            "Archery": "0.0504432588104332",
+            "Diving": "",
+            "Tennis": "0.1684098473440566",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.1873188881081771",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "QAT": [
+        {
+            "NOC": "QAT",
+            "Athletics": "0.1650155691770767",
+            "Swimming": "0.1045507993594813",
+            "Gymnastics": "",
+            "Cycling": "",
+            "Rowing": "",
+            "Shooting": "0.2144730783414969",
+            "Fencing": "0.0334878131518412",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "0.0227033590714598",
+            "Boxing": "0.3874473616409957",
+            "Equestrianism": "0.0590364637276154",
+            "Judo": "0.1453653310716725",
+            "Basketball": "",
+            "Handball": "0.0391752776812023",
+            "Volleyball": "",
+            "Weightlifting": "0.4499545207326477",
+            "Water Polo": "",
+            "Archery": "0.1567697754049009",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "0.1182347658077452",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.1306424529098911",
+            "Beach Volleyball": "0.1147096286666613",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

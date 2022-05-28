@@ -1,0 +1,42 @@
+{
+    "BFA": [
+        {
+            "NOC": "BFA",
+            "Athletics": "0.0160425337759375",
+            "Swimming": "0.0025405075223993",
+            "Gymnastics": "",
+            "Cycling": "",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "0.0034479499858518",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "",
+            "Boxing": "0.0464900441275918",
+            "Equestrianism": "",
+            "Judo": "0.0486578096145902",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

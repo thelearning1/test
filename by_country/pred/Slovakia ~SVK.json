@@ -1,0 +1,42 @@
+{
+    "SVK": [
+        {
+            "NOC": "SVK",
+            "Athletics": "0.0987335172241028",
+            "Swimming": "0.2497250168608362",
+            "Gymnastics": "0.0204855647704582",
+            "Cycling": "0.0393099381043371",
+            "Rowing": "0.0913830386936594",
+            "Shooting": "0.6680642715895043",
+            "Fencing": "",
+            "Canoeing": "0.7468530973496738",
+            "Wrestling": "0.2383699315556728",
+            "Football": "0.0007571467949805",
+            "Boxing": "0.2472588977714437",
+            "Equestrianism": "",
+            "Judo": "0.3686380642937376",
+            "Basketball": "0.0121500874392615",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.2094976949093737",
+            "Water Polo": "0.0025809252758242",
+            "Archery": "0.0222253413503902",
+            "Diving": "",
+            "Tennis": "0.0363536495404301",
+            "Table Tennis": "0.0086278000295146",
+            "Badminton": "0.0425453256684466",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "0.0200505714996533",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "0.0099052759662904",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "0.4305629927872775",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

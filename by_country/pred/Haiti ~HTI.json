@@ -1,0 +1,42 @@
+{
+    "HTI": [
+        {
+            "NOC": "HTI",
+            "Athletics": "0.0825036006410413",
+            "Swimming": "0.0243234621108658",
+            "Gymnastics": "",
+            "Cycling": "",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "0.0760002005537197",
+            "Football": "",
+            "Boxing": "0.2707553042543508",
+            "Equestrianism": "",
+            "Judo": "0.0250564963146836",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.0570386407997161",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "0.0220496500066515",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.1873188881081771",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "CMR": [
+        {
+            "NOC": "CMR",
+            "Athletics": "0.1367708366330345",
+            "Swimming": "0.0225976620603467",
+            "Gymnastics": "",
+            "Cycling": "0.0006843520890379",
+            "Rowing": "0.1036241514923854",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "0.0526309028511495",
+            "Football": "0.0799911882129852",
+            "Boxing": "0.2729362047969658",
+            "Equestrianism": "",
+            "Judo": "0.0250564963146836",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "0.1494216925250511",
+            "Weightlifting": "0.0472625912876153",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "0.0079492624070719",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

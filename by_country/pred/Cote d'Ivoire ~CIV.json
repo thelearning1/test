@@ -1,0 +1,42 @@
+{
+    "CIV": [
+        {
+            "NOC": "CIV",
+            "Athletics": "0.0812949169229211",
+            "Swimming": "0.0225976620603467",
+            "Gymnastics": "",
+            "Cycling": "",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "0.0056408038897521",
+            "Canoeing": "0.0931900971148368",
+            "Wrestling": "0.0506978719719747",
+            "Football": "9.801228457346563e-06",
+            "Boxing": "0.0844583804565967",
+            "Equestrianism": "",
+            "Judo": "0.0355695738506364",
+            "Basketball": "",
+            "Handball": "0.0096099782528998",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "0.0130847769366279",
+            "Diving": "",
+            "Tennis": "0.0384654455566808",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.4110062480395933",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

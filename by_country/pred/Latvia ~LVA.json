@@ -1,0 +1,42 @@
+{
+    "LVA": [
+        {
+            "NOC": "LVA",
+            "Athletics": "0.2298466874702436",
+            "Swimming": "0.0511587199835851",
+            "Gymnastics": "0.5714522785647614",
+            "Cycling": "0.3671373755842788",
+            "Rowing": "0.1543144793436359",
+            "Shooting": "0.1928913786828279",
+            "Fencing": "0.0432675427969728",
+            "Canoeing": "0.3172495891372611",
+            "Wrestling": "0.1832114867569341",
+            "Football": "",
+            "Boxing": "0.2663077314048667",
+            "Equestrianism": "",
+            "Judo": "0.3218506264470195",
+            "Basketball": "0.0757217927063558",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.4827123877787903",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "0.0421220404165464",
+            "Table Tennis": "0.006635090069644",
+            "Badminton": "",
+            "Modern Pentathlon": "0.5618198443928921",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "0.6040584415584414",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

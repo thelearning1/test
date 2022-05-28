@@ -1,0 +1,42 @@
+{
+    "UGA": [
+        {
+            "NOC": "UGA",
+            "Athletics": "0.237600563947505",
+            "Swimming": "0.0020006873298875",
+            "Gymnastics": "",
+            "Cycling": "0.0066413221732781",
+            "Rowing": "",
+            "Shooting": "",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "",
+            "Boxing": "0.3078254326147939",
+            "Equestrianism": "",
+            "Judo": "",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.0183517609743952",
+            "Water Polo": "",
+            "Archery": "0.0504432588104332",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "0.0079492624070719",
+            "Badminton": "0.0498722525281811",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": "0.0033142815161581"
+        }
+    ]
+}

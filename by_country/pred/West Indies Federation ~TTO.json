@@ -1,0 +1,42 @@
+{
+    "TTO": [
+        {
+            "NOC": "TTO",
+            "Athletics": "0.630076322810188",
+            "Swimming": "0.1518373203703009",
+            "Gymnastics": "0.0219937998831449",
+            "Cycling": "0.0163405351126868",
+            "Rowing": "0.1867987311933797",
+            "Shooting": "0.1458893886194805",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "",
+            "Boxing": "0.2472588977714437",
+            "Equestrianism": "",
+            "Judo": "0.1799921308325492",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "0.0183517609743952",
+            "Water Polo": "",
+            "Archery": "",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "0.006635090069644",
+            "Badminton": "0.0635835482711642",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "0.233563904769819",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "",
+            "Hockey": ""
+        }
+    ]
+}

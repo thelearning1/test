@@ -1,0 +1,42 @@
+{
+    "BGD": [
+        {
+            "NOC": "BGD",
+            "Athletics": "0.0135186883900131",
+            "Swimming": "0.0020006873298875",
+            "Gymnastics": "0.0219937998831449",
+            "Cycling": "",
+            "Rowing": "",
+            "Shooting": "0.031662628957383",
+            "Fencing": "",
+            "Canoeing": "",
+            "Wrestling": "",
+            "Football": "",
+            "Boxing": "",
+            "Equestrianism": "",
+            "Judo": "",
+            "Basketball": "",
+            "Handball": "",
+            "Volleyball": "",
+            "Weightlifting": "",
+            "Water Polo": "",
+            "Archery": "0.1139988290030771",
+            "Diving": "",
+            "Tennis": "",
+            "Table Tennis": "",
+            "Badminton": "",
+            "Modern Pentathlon": "",
+            "Sychronized Swimming": "",
+            "Baseball": "",
+            "Rhythmic Gymnastics": "",
+            "Taekwondo": "",
+            "Beach Volleyball": "",
+            "Triathlon": "",
+            "Softball": "",
+            "Rugby Sevens": "",
+            "Trampoling": "",
+            "Golf": "0.0338558668045148",
+            "Hockey": ""
+        }
+    ]
+}
