@@ -1,0 +1,89 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+781,551,Aliyah Abrams,F,19.0,163.0,53.0,Guyana,GUY,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 400 metres,,0,773303.0,0.000103909,71.339,66.65,3502397094.0,4529.139411,4.62e-05
+782,552,Colin Winston Abrams,M,32.0,180.0,70.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Cycling,Cycling Men's Sprint,,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+4051,2834,Charles Tyrone Allen,M,23.0,175.0,73.0,Guyana,GUY,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 110 metres Hurdles,,0,753301.0,0.000123127,71.306,64.93,712667896.7,946.0599371,2.12e-05
+4173,2908,George Allison,M,23.0,175.0,71.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Middleweight,,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+5078,3509,Charles Amos,M,23.0,173.0,76.0,Guyana,GUY,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Middleweight,,0,686146.0,0.000194111,70.671,61.588,229750000.0,334.8412728,9.42e-05
+6420,4512,Michael Anthony Parris,M,22.0,173.0,54.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Bantamweight,Bronze,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+7041,4915,Brenda Archer,F,17.0,166.0,59.0,Guyana,GUY,1960 Summer,1960,Summer,Roma,Athletics,Athletics Women's High Jump,,0,571819.0,0.000188458,70.991,60.26,170215248.2,297.6732991,0.000124245
+8305,5799,Courtney Andrew Atherly,M,24.0,160.0,60.0,Guyana,GUY,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Lightweight,,0,721948.0,0.00018806,70.359,61.938,285380952.4,395.2929469,7.57e-05
+11615,8034,Oslen McGregor Barr,M,23.0,165.0,67.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+11616,8034,Oslen McGregor Barr,M,23.0,165.0,67.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Athletics,"Athletics Men's 1,500 metres",,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+11617,8034,Oslen McGregor Barr,M,27.0,165.0,67.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+12175,8415,Jeremy Bascom,M,28.0,170.0,73.0,Guyana,GUY,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 100 metres,,0,753091.0,0.000106108,71.681,66.216,2861562266.0,3799.756292,3.82e-05
+22636,15517,Fitzroy Brown,M,21.0,173.0,58.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Featherweight,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+23199,15898,Aubrey Bryce,M,19.0,178.0,68.0,Guyana,GUY,1968 Summer,1968,Summer,Mexico City,Cycling,Cycling Men's Sprint,,0,686146.0,0.000194111,70.671,61.588,229750000.0,334.8412728,9.42e-05
+23200,15898,Aubrey Bryce,M,19.0,178.0,68.0,Guyana,GUY,1968 Summer,1968,Summer,Mexico City,Cycling,"Cycling Men's 1,000 metres Time Trial",,0,686146.0,0.000194111,70.671,61.588,229750000.0,334.8412728,9.42e-05
+24397,16679,Marian Joan Burnett,F,28.0,162.0,52.0,Guyana,GUY,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's 800 metres,,0,751652.0,0.000116782,71.642,65.428,785918769.6,1045.58861,1.79e-05
+24398,16679,Marian Joan Burnett,F,32.0,162.0,52.0,Guyana,GUY,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 800 metres,,0,746314.0,0.00011034,71.782,65.836,1922598121.0,2576.124957,3.03e-05
+25667,17603,"Barrington ""Barry"" Cambridge",M,23.0,175.0,64.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Light-Welterweight,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+26592,18218,Dillon Carew,M,21.0,176.0,63.0,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Boxing,Boxing Men's Light-Welterweight,,0,748134.0,0.000137118,70.596,63.6,368281378.9,492.2665978,1.45e-05
+26593,18219,Gordon Carew,M,18.0,163.0,60.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Boxing,Boxing Men's Lightweight,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+26596,18223,Adrian David Carew-Dodson,M,17.0,178.0,65.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Welterweight,,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+34477,23706,Carl Crawford,M,24.0,192.0,81.0,Guyana,GUY,1960 Summer,1960,Summer,Roma,Boxing,Boxing Men's Light-Heavyweight,,0,571819.0,0.000188458,70.991,60.26,170215248.2,297.6732991,0.000124245
+38460,26539,George De Peana,M,24.0,,,Guyana,GUY,1960 Summer,1960,Summer,Roma,Athletics,"Athletics Men's 5,000 metres",,0,571819.0,0.000188458,70.991,60.26,170215248.2,297.6732991,0.000124245
+40428,27984,Marilyn A. Dewarder,F,28.0,168.0,56.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's 400 metres,,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+40799,28201,Martin Dias,M,27.0,,56.0,Guyana,GUY,1964 Summer,1964,Summer,Tokyo,Weightlifting,Weightlifting Men's Bantamweight,,0,637845.0,0.000195766,70.831,60.984,194773376.9,305.3616112,0.000108207
+42772,29497,Troy Doris,M,27.0,172.0,74.0,Guyana,GUY,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Triple Jump,,0,773303.0,0.000103909,71.339,66.65,3502397094.0,4529.139411,4.62e-05
+43091,29698,John Douglas,M,25.0,175.0,81.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Boxing,Boxing Men's Light-Heavyweight,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+52276,35817,"Najuma ""Nancy"" Fletcher",F,18.0,178.0,59.0,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Women's High Jump,,0,748134.0,0.000137118,70.596,63.6,368281378.9,492.2665978,1.45e-05
+52882,36238,"Reginald ""Reggie"" Ford",M,19.0,160.0,66.0,Guyana,GUY,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Light-Middleweight,,0,721948.0,0.00018806,70.359,61.938,285380952.4,395.2929469,7.57e-05
+53701,36762,"Steven ""Steve"" Frank",M,19.0,172.0,54.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Boxing,Boxing Men's Featherweight,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+57141,38957,Hannibal David Gaskin,M,18.0,173.0,68.0,Guyana,GUY,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 100 metres Butterfly,,0,773303.0,0.000103909,71.339,66.65,3502397094.0,4529.139411,4.62e-05
+58020,39573,Winston Oudkerk George,M,25.0,167.0,66.0,Guyana,GUY,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 400 metres,,0,753091.0,0.000106108,71.681,66.216,2861562266.0,3799.756292,3.82e-05
+58021,39573,Winston Oudkerk George,M,29.0,167.0,66.0,Guyana,GUY,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 400 metres,,0,773303.0,0.000103909,71.339,66.65,3502397094.0,4529.139411,4.62e-05
+59094,40313,James Wren Gilkes,M,27.0,188.0,72.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 100 metres,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+59095,40313,James Wren Gilkes,M,27.0,188.0,72.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 200 metres,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+59113,40329,Roger L. Gill,M,24.0,195.0,58.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+59579,40609,Lancelot Gittens,M,21.0,196.0,59.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 400 metres Hurdles,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+59580,40609,Lancelot Gittens,M,21.0,196.0,59.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+59740,40702,Clayton M. Glasgow,M,23.0,169.0,66.0,Guyana,GUY,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 200 metres,,0,571819.0,0.000188458,70.991,60.26,170215248.2,297.6732991,0.000124245
+59741,40702,Clayton M. Glasgow,M,23.0,169.0,66.0,Guyana,GUY,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 400 metres,,0,571819.0,0.000188458,70.991,60.26,170215248.2,297.6732991,0.000124245
+60568,41269,Ralph Gomes,M,23.0,173.0,64.0,Guyana,GUY,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 800 metres,,0,571819.0,0.000188458,70.991,60.26,170215248.2,297.6732991,0.000124245
+62878,42866,June Marcia Griffith (-Collison),F,27.0,183.0,52.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 400 metres,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+66019,44962,Earl Haley,M,25.0,183.0,82.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 100 metres,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+66020,44962,Earl Haley,M,25.0,183.0,82.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 200 metres,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+66616,45389,Curt Hampstead,M,26.0,186.0,73.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 110 metres Hurdles,,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+67715,46148,Adam Scott Harris,M,21.0,,,Guyana,GUY,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 200 metres,,0,746314.0,0.00011034,71.782,65.836,1922598121.0,2576.124957,3.03e-05
+67816,46230,Andrew Harry,M,28.0,204.0,67.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+69065,47062,Desmond Hector,M,23.0,170.0,70.0,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 800 metres,,0,748134.0,0.000137118,70.596,63.6,368281378.9,492.2665978,1.45e-05
+74885,51063,Neville Hunte,M,24.0,178.0,69.0,Guyana,GUY,1972 Summer,1972,Summer,Munich,Cycling,Cycling Men's Sprint,,0,721948.0,0.00018806,70.359,61.938,285380952.4,395.2929469,7.57e-05
+74886,51063,Neville Hunte,M,24.0,178.0,69.0,Guyana,GUY,1972 Summer,1972,Summer,Munich,Cycling,"Cycling Men's 1,000 metres Time Trial",,0,721948.0,0.00018806,70.359,61.938,285380952.4,395.2929469,7.57e-05
+76660,52173,Jennifer Innis,F,20.0,175.0,61.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Women's 100 metres,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+76661,52173,Jennifer Innis,F,20.0,175.0,61.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Women's Long Jump,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+76662,52173,Jennifer Innis,F,24.0,175.0,61.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's Long Jump,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+78715,53473,Byron James,M,21.0,163.0,64.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Cycling,"Cycling Men's Road Race, Individual",,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+78747,53506,Rudolph James,M,23.0,173.0,83.0,Guyana,GUY,1968 Summer,1968,Summer,Mexico City,Weightlifting,Weightlifting Men's Light-Heavyweight,,0,686146.0,0.000194111,70.671,61.588,229750000.0,334.8412728,9.42e-05
+81988,55723,Richard Jones,M,22.0,189.0,62.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 400 metres,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+81989,55723,Richard Jones,M,22.0,189.0,62.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+82319,55954,James Joseph,M,23.0,175.0,67.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Cycling,Cycling Men's Sprint,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+82320,55954,James Joseph,M,27.0,175.0,67.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Cycling,Cycling Men's Sprint,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+98597,66081,Ral Lall,M,17.0,,59.0,Guyana,GUY,2012 Summer,2012,Summer,London,Judo,Judo Men's Extra-Lightweight,,0,753091.0,0.000106108,71.681,66.216,2861562266.0,3799.756292,3.82e-05
+103114,69204,Andrew Lewis,M,21.0,173.0,67.0,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Boxing,Boxing Men's Welterweight,,0,748134.0,0.000137118,70.596,63.6,368281378.9,492.2665978,1.45e-05
+112821,75501,Nicola Martial,F,22.0,176.0,61.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Women's Triple Jump,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+113805,76165,Mark Mason,M,23.0,178.0,70.0,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Long Jump,,0,748134.0,0.000137118,70.596,63.6,368281378.9,492.2665978,1.45e-05
+116117,77791,Errol McLean,M,28.0,175.0,58.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Cycling,"Cycling Men's 1,000 metres Time Trial",,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+116346,77974,Julian Malviya McWatt,M,25.0,173.0,85.0,Guyana,GUY,2004 Summer,2004,Summer,Athina,Weightlifting,Weightlifting Men's Light-Heavyweight,,0,751652.0,0.000116782,71.642,65.428,785918769.6,1045.58861,1.79e-05
+121926,81639,Colin Moore,M,26.0,155.0,48.0,Guyana,GUY,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Flyweight,,0,750731.0,0.000147038,70.237,63.046,413799990.0,551.1960875,2.17e-05
+143793,95999,Aliann Tabitha Omalara Pompey,F,22.0,168.0,55.0,Guyana,GUY,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 400 metres,,0,753301.0,0.000123127,71.306,64.93,712667896.7,946.0599371,2.12e-05
+143794,95999,Aliann Tabitha Omalara Pompey,F,26.0,168.0,55.0,Guyana,GUY,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's 400 metres,,0,751652.0,0.000116782,71.642,65.428,785918769.6,1045.58861,1.79e-05
+143795,95999,Aliann Tabitha Omalara Pompey,F,30.0,168.0,55.0,Guyana,GUY,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 400 metres,,0,746314.0,0.00011034,71.782,65.836,1922598121.0,2576.124957,3.03e-05
+143796,95999,Aliann Tabitha Omalara Pompey,F,34.0,168.0,55.0,Guyana,GUY,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 400 metres,,0,753091.0,0.000106108,71.681,66.216,2861562266.0,3799.756292,3.82e-05
+145731,97258,Harry Prowell,M,32.0,175.0,56.0,Guyana,GUY,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's Marathon,,0,686146.0,0.000194111,70.671,61.588,229750000.0,334.8412728,9.42e-05
+150631,100587,Aubrey Gordon Richmond,M,26.0,165.0,63.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Cycling,Cycling Men's Points Race,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+150632,100587,Aubrey Gordon Richmond,M,34.0,165.0,63.0,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Cycling,"Cycling Men's Road Race, Individual",,0,748134.0,0.000137118,70.596,63.6,368281378.9,492.2665978,1.45e-05
+150633,100587,Aubrey Gordon Richmond,M,34.0,165.0,63.0,Guyana,GUY,1992 Summer,1992,Summer,Barcelona,Cycling,Cycling Men's Points Race,,0,748134.0,0.000137118,70.596,63.6,368281378.9,492.2665978,1.45e-05
+151667,101295,Ian Roberts,M,26.0,189.0,80.0,Guyana,GUY,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,,0,753301.0,0.000123127,71.306,64.93,712667896.7,946.0599371,2.12e-05
+151706,101316,Niall Roberts,M,17.0,177.0,75.0,Guyana,GUY,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 50 metres Freestyle,,0,746314.0,0.00011034,71.782,65.836,1922598121.0,2576.124957,3.03e-05
+151707,101316,Niall Roberts,M,21.0,177.0,75.0,Guyana,GUY,2012 Summer,2012,Summer,London,Swimming,Swimming Men's 100 metres Freestyle,,0,753091.0,0.000106108,71.681,66.216,2861562266.0,3799.756292,3.82e-05
+158126,105485,Jamila Keizia Sanmoogan,F,19.0,143.0,58.0,Guyana,GUY,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,,0,773303.0,0.000103909,71.339,66.65,3502397094.0,4529.139411,4.62e-05
+166308,111038,Dhanraj Singh,M,21.0,168.0,54.0,Guyana,GUY,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Bantamweight,,0,686146.0,0.000194111,70.671,61.588,229750000.0,334.8412728,9.42e-05
+179583,119750,Onan Orlando Thom,M,20.0,188.0,86.0,Guyana,GUY,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 100 metres Freestyle,,0,751652.0,0.000116782,71.642,65.428,785918769.6,1045.58861,1.79e-05
+179606,119760,Alfred Thomas,M,30.0,188.0,71.0,Guyana,GUY,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Middleweight,,0,780153.0,0.000175802,69.512,62.498,603200000.0,773.1816708,5.39e-05
+179822,119884,Brenessa Thompson,F,20.0,163.0,62.0,Guyana,GUY,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 100 metres,,0,773303.0,0.000103909,71.339,66.65,3502397094.0,4529.139411,4.62e-05
+179823,119884,Brenessa Thompson,F,20.0,163.0,62.0,Guyana,GUY,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 200 metres,,0,773303.0,0.000103909,71.339,66.65,3502397094.0,4529.139411,4.62e-05
+182399,121508,Randolph Toussaint,M,28.0,180.0,71.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Cycling,"Cycling Men's Road Race, Individual",,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05
+184034,122492,Paul Tucker,M,20.0,186.0,84.0,Guyana,GUY,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,,0,761861.0,0.000131524,70.952,64.297,705406001.4,925.8985581,2.23e-05
+184035,122492,Paul Tucker,M,24.0,186.0,84.0,Guyana,GUY,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 400 metres Hurdles,,0,753301.0,0.000123127,71.306,64.93,712667896.7,946.0599371,2.12e-05
+187339,124734,Britany van Lange,F,15.0,180.0,68.0,Guyana,GUY,2012 Summer,2012,Summer,London,Swimming,Swimming Women's 100 metres Freestyle,,0,753091.0,0.000106108,71.681,66.216,2861562266.0,3799.756292,3.82e-05
+193060,128720,Junior Ward,M,28.0,169.0,51.0,Guyana,GUY,1984 Summer,1984,Summer,Los Angeles,Boxing,Boxing Men's Flyweight,,0,775219.0,0.000162862,69.876,62.741,437631605.3,564.5264181,3.62e-05

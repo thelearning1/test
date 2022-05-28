@@ -1,0 +1,349 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+391,295,Suleman Abdul Rahman,M,29.0,174.0,55.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,"Cycling Men's Road Race, Individual",,0,30132580.0,0.007849224,91.072,43.465,,0,
+516,379,Addis Abebe,M,21.0,160.0,50.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 5,000 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+517,379,Addis Abebe,M,21.0,160.0,50.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 10,000 metres",Bronze,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+518,380,Biruk Abebe,M,22.0,173.0,62.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,"Cycling Men's Road Race, Individual",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+519,380,Biruk Abebe,M,22.0,173.0,62.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+565,411,Gezahgne Abera,M,22.0,166.0,58.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,Gold,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+566,412,Tesfaye Abera Dibaba,M,24.0,192.0,68.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+839,584,Ayele Abshero Biza,M,21.0,168.0,62.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+1336,929,Berhane Adere Debala,F,22.0,170.0,50.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Women's 10,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+1337,929,Berhane Adere Debala,F,27.0,170.0,50.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 10,000 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+1338,929,Berhane Adere Debala,F,35.0,170.0,50.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's Marathon,,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+1405,985,Megra Admassou,M,25.0,177.0,65.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,"Cycling Men's Road Race, Individual",,0,22151278.0,0.007300549,93.567,38.419,,0,
+1533,1075,Abel Aferalign,M,20.0,169.0,54.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Bantamweight,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+1962,1419,Zemzem Ahmed Deko,F,23.0,170.0,53.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+3196,2239,Yenew Alamirew Getahun,M,22.0,178.0,57.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 5,000 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+3256,2284,Kouflu Alazar,M,29.0,168.0,64.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,"Cycling Men's Road Race, Individual",,0,22151278.0,0.007300549,93.567,38.419,,0,
+3257,2284,Kouflu Alazar,M,29.0,168.0,64.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,22151278.0,0.007300549,93.567,38.419,,0,
+3626,2529,Moges Alemayehu,M,31.0,166.0,53.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Marathon,,0,35264898.0,0.007946678,89.59,43.746,,0,
+3627,2530,Simretu Alemayehu,M,29.0,182.0,68.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+3628,2531,Tilahun Alemayehu,M,18.0,174.0,61.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,35264898.0,0.007946678,89.59,43.746,,0,
+3629,2533,Bekele Alemu,M,23.0,173.0,70.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Boxing,Boxing Men's Light-Middleweight,,0,24397024.0,0.007487881,92.658,40.81,,0,
+3630,2533,Bekele Alemu,M,27.0,173.0,70.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Light-Middleweight,,0,26946079.0,0.007623039,91.74,42.355,,0,
+3631,2534,Berhanu Alemu,M,18.0,179.0,63.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 1,500 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+3632,2534,Berhanu Alemu,M,22.0,179.0,63.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+3633,2535,Dagne Alemu,M,19.0,171.0,58.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 5,000 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+3634,2536,Elfenesh Alemu,F,25.0,165.0,51.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's Marathon,,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+3635,2536,Elfenesh Alemu,F,29.0,165.0,51.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's Marathon,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+3636,2537,Habitam Alemu,F,19.0,171.0,52.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 800 metres,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+4720,3280,Mohammed Aman Geleto,M,18.0,165.0,58.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+4721,3280,Mohammed Aman Geleto,M,22.0,165.0,58.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+4768,3310,Hailemariyam Amare Tegen,M,19.0,175.0,64.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+4830,3343,Suleman Ambaye,M,29.0,165.0,57.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,"Cycling Men's Road Race, Individual",,0,24397024.0,0.007487881,92.658,40.81,,0,
+4831,3343,Suleman Ambaye,M,29.0,165.0,57.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,24397024.0,0.007487881,92.658,40.81,,0,
+7091,4961,Abeba Aregawi Gebretsadik,F,22.0,170.0,52.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 1,500 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+7829,5454,Beruk Asafaw,M,19.0,160.0,48.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Light-Flyweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+7924,5516,Gashaw Asfaw Melese,M,29.0,168.0,51.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+8124,5685,Abraham Assefa,M,23.0,165.0,51.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Men's 10,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+8125,5686,Meskerem Assefa Legesse (Wondimagegn),F,22.0,161.0,43.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 1,500 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+8126,5686,Meskerem Assefa Legesse (Wondimagegn),F,26.0,161.0,43.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 1,500 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+8127,5687,Sofia Assefa Abebe,F,20.0,167.0,52.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+8128,5687,Sofia Assefa Abebe,F,24.0,167.0,52.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 3,000 metres Steeplechase",Bronze,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+8129,5687,Sofia Assefa Abebe,F,28.0,167.0,52.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+8130,5688,Tigist Assefa,F,19.0,168.0,53.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 800 metres,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+8865,6202,Hiwot Ayalew Yeder,F,22.0,173.0,53.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+8866,6202,Hiwot Ayalew Yeder,F,26.0,173.0,53.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+8870,6204,Almaz Ayana Eba,F,24.0,166.0,47.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 5,000 metres",Bronze,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+8871,6204,Almaz Ayana Eba,F,24.0,166.0,47.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 10,000 metres",Gold,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+8930,6235,Bayu Ayele,M,19.0,163.0,59.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Lightweight,,0,26946079.0,0.007623039,91.74,42.355,,0,
+10396,7183,Kassa Balcha,M,24.0,182.0,66.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 1,500 metres",,0,35264898.0,0.007946678,89.59,43.746,,0,
+10397,7184,Kebede Balcha,M,28.0,166.0,49.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Marathon,,0,35264898.0,0.007946678,89.59,43.746,,0,
+12896,8902,Fita Bayissa,M,19.0,173.0,52.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 5,000 metres",Bronze,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+12897,8902,Fita Bayissa,M,19.0,173.0,52.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 10,000 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+12898,8902,Fita Bayissa,M,23.0,173.0,52.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Men's 5,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+12899,8902,Fita Bayissa,M,27.0,173.0,52.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 5,000 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+13467,9272,Lengissa Bedane,M,22.0,175.0,55.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's Marathon,,0,30132580.0,0.007849224,91.072,43.465,,0,
+13497,9280,Kebede Bedasso,M,23.0,167.0,62.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+13691,9408,Tebebu Behonegn,M,21.0,,51.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Boxing,Boxing Men's Flyweight,,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+13839,9487,Kenenisa Bekele Beyecha,M,22.0,165.0,56.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 5,000 metres",Silver,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+13840,9487,Kenenisa Bekele Beyecha,M,22.0,165.0,56.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 10,000 metres",Gold,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+13841,9487,Kenenisa Bekele Beyecha,M,26.0,165.0,56.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 5,000 metres",Gold,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+13842,9487,Kenenisa Bekele Beyecha,M,26.0,165.0,56.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",Gold,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+13843,9487,Kenenisa Bekele Beyecha,M,30.0,165.0,56.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 10,000 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+13844,9488,Mekdes Bekele Tadesse,F,21.0,180.0,58.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+13845,9489,Nigusse Bekele,M,20.0,185.0,55.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,,0,35264898.0,0.007946678,89.59,43.746,,0,
+13846,9489,Nigusse Bekele,M,20.0,185.0,55.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 1,500 metres",,0,35264898.0,0.007946678,89.59,43.746,,0,
+13847,9490,Tariku Bekele Beyecha,M,21.0,173.0,65.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 5,000 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+13848,9490,Tariku Bekele Beyecha,M,25.0,173.0,65.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 10,000 metres",Bronze,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+13958,9559,Solomon Belaye,M,25.0,173.0,64.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 200 metres,,0,30132580.0,0.007849224,91.072,43.465,,0,
+13959,9559,Solomon Belaye,M,25.0,173.0,64.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+14023,9583,Yehualeye Beletew,F,18.0,165.0,52.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+15043,10240,Ketema Benti,M,27.0,179.0,68.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+15557,10581,Dejene Berhanu,M,23.0,181.0,61.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 5,000 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+15558,10582,Lemi Berhanu Hayle,M,21.0,168.0,53.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+16243,11151,Chala Beyo Techo,M,20.0,176.0,58.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+16248,11154,Atre Bezabeh,M,26.0,185.0,64.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,,0,35264898.0,0.007946678,89.59,43.746,,0,
+16249,11154,Atre Bezabeh,M,26.0,185.0,64.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,,0,35264898.0,0.007946678,89.59,43.746,,0,
+16252,11156,Tegegne Bezabeh,M,23.0,183.0,65.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 200 metres,,0,24397024.0,0.007487881,92.658,40.81,,0,
+16253,11156,Tegegne Bezabeh,M,23.0,183.0,65.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 400 metres,,0,24397024.0,0.007487881,92.658,40.81,,0,
+16254,11156,Tegegne Bezabeh,M,27.0,183.0,65.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 400 metres,,0,26946079.0,0.007623039,91.74,42.355,,0,
+16255,11156,Tegegne Bezabeh,M,30.0,183.0,65.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 400 metres,,0,30132580.0,0.007849224,91.072,43.465,,0,
+16256,11156,Tegegne Bezabeh,M,30.0,183.0,65.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+16668,11467,Abebe Bikila,M,28.0,177.0,57.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Marathon,Gold,0,22151278.0,0.007300549,93.567,38.419,,0,
+16669,11467,Abebe Bikila,M,32.0,177.0,57.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's Marathon,Gold,0,24397024.0,0.007487881,92.658,40.81,,0,
+16670,11467,Abebe Bikila,M,36.0,177.0,57.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's Marathon,,0,26946079.0,0.007623039,91.74,42.355,,0,
+16671,11468,Worku Bikila,M,24.0,175.0,59.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 5,000 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+16672,11468,Worku Bikila,M,28.0,175.0,59.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Men's 10,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+24270,16592,Gelete Burka Bati,F,22.0,160.0,43.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 1,500 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+24271,16592,Gelete Burka Bati,F,26.0,160.0,43.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 5,000 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+24272,16592,Gelete Burka Bati,F,30.0,160.0,43.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 10,000 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+28576,19592,Milkessa Chalchisa,M,31.0,162.0,79.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Javelin Throw,,0,35264898.0,0.007946678,89.59,43.746,,0,
+29969,20456,Abreham Cherkos Feleke,M,18.0,158.0,52.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 5,000 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+36063,24750,Demma Daba Bikila,M,19.0,171.0,53.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 1,500 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+36064,24751,Girma Maru Daba,M,19.0,182.0,64.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+38863,26882,Asfaw Deble,M,25.0,174.0,61.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 400 metres,,0,35264898.0,0.007946678,89.59,43.746,,0,
+38864,26882,Asfaw Deble,M,25.0,174.0,61.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,,0,35264898.0,0.007946678,89.59,43.746,,0,
+38988,26980,Meseret Defar Tola,F,20.0,159.0,42.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 5,000 metres",Gold,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+38989,26980,Meseret Defar Tola,F,24.0,159.0,42.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 5,000 metres",Bronze,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+38990,26980,Meseret Defar Tola,F,28.0,159.0,42.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 5,000 metres",Gold,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+39070,27029,Fikru Deguefu,M,31.0,173.0,52.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 5,000 metres",,0,26946079.0,0.007623039,91.74,42.355,,0,
+39071,27029,Fikru Deguefu,M,31.0,173.0,52.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 10,000 metres",,0,26946079.0,0.007623039,91.74,42.355,,0,
+39618,27439,Guremu Demboba,M,25.0,168.0,68.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,"Cycling Men's Road Race, Individual",,0,22151278.0,0.007300549,93.567,38.419,,0,
+39619,27439,Guremu Demboba,M,25.0,168.0,68.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,22151278.0,0.007300549,93.567,38.419,,0,
+39661,27450,Yigrem Demelash,M,22.0,167.0,48.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+39820,27546,Merima Denboba,F,21.0,168.0,48.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Women's 5,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+40257,27870,Bereket Desta Gebretsadik,M,22.0,180.0,63.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 400 metres,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+40939,28310,Ejegayehu Dibaba Keneni,F,22.0,162.0,47.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 10,000 metres",Silver,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+40940,28310,Ejegayehu Dibaba Keneni,F,26.0,162.0,47.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 10,000 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+40941,28311,Genzebe Dibaba Keneni,F,21.0,168.0,52.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 1,500 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+40942,28311,Genzebe Dibaba Keneni,F,25.0,168.0,52.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 1,500 metres",Silver,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+40943,28312,Mare Dibaba Hurssa (-Ibrahimova-),F,22.0,156.0,45.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Women's Marathon,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+40944,28312,Mare Dibaba Hurssa (-Ibrahimova-),F,26.0,156.0,45.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's Marathon,Bronze,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+40945,28313,Tirunesh Dibaba Keneni,F,19.0,166.0,50.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 5,000 metres",Bronze,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+40946,28313,Tirunesh Dibaba Keneni,F,23.0,166.0,50.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 5,000 metres",Gold,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+40947,28313,Tirunesh Dibaba Keneni,F,23.0,166.0,50.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 10,000 metres",Gold,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+40948,28313,Tirunesh Dibaba Keneni,F,27.0,166.0,50.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 5,000 metres",Bronze,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+40949,28313,Tirunesh Dibaba Keneni,F,27.0,166.0,50.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 10,000 metres",Gold,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+40950,28313,Tirunesh Dibaba Keneni,F,31.0,166.0,50.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 10,000 metres",Bronze,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+41490,28681,Belayneh Dinsamo,M,30.0,168.0,62.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+41610,28744,Etenesh Diro Neda,F,21.0,168.0,49.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+41611,28744,Etenesh Diro Neda,F,25.0,168.0,49.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 3,000 metres Steeplechase",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+44264,30535,Ware Kutre Dulecha,F,17.0,162.0,50.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Women's 800 metres,,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+44265,30535,Ware Kutre Dulecha,F,17.0,162.0,50.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Women's 1,500 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+44266,30535,Ware Kutre Dulecha,F,22.0,162.0,50.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 1,500 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+44267,30535,Ware Kutre Dulecha,F,25.0,162.0,50.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 1,500 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+45254,31219,Hailu Ebba,M,21.0,176.0,66.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 1,500 metres",,0,30132580.0,0.007849224,91.072,43.465,,0,
+45463,31356,Gadissie Edato,F,27.0,156.0,43.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's Marathon,,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+45638,31452,Muktar Edris Awel,M,22.0,171.0,60.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+46151,31792,Sentayehu Ejigu Tamerat,F,19.0,160.0,44.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 5,000 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+49326,33955,Hailu Fana,M,25.0,,,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+50200,34527,Getu Feleke,M,25.0,,,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+50201,34528,Sisaye Feleke,M,25.0,172.0,64.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+51206,35088,Tekle Fetinsa,M,26.0,174.0,50.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 5,000 metres",,0,30132580.0,0.007849224,91.072,43.465,,0,
+52031,35621,Kumela Fituma,M,21.0,187.0,70.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,,0,35264898.0,0.007946678,89.59,43.746,,0,
+55327,37795,Girmaye Gabre,M,22.0,170.0,60.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Lightweight,,0,30132580.0,0.007849224,91.072,43.465,,0,
+55328,37796,Fekrou Gabreselassie,M,22.0,170.0,64.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Light-Welterweight,,0,30132580.0,0.007849224,91.072,43.465,,0,
+56945,38799,Roba Gari Chebute,M,26.0,181.0,60.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+56946,38799,Roba Gari Chebute,M,30.0,181.0,60.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+57667,39280,Rissom Gebre Meskei,M,30.0,175.0,60.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,"Cycling Men's Road Race, Individual",,0,30132580.0,0.007849224,91.072,43.465,,0,
+57668,39280,Rissom Gebre Meskei,M,30.0,175.0,60.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,30132580.0,0.007849224,91.072,43.465,,0,
+57669,39281,Egzi Gebre-Gebre,M,23.0,170.0,63.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 100 metres,,0,30132580.0,0.007849224,91.072,43.465,,0,
+57670,39281,Egzi Gebre-Gebre,M,23.0,170.0,63.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 100 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+57671,39282,Tadesse Gebregiorgis,M,26.0,174.0,66.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Boxing,Boxing Men's Light-Welterweight,,0,24397024.0,0.007487881,92.658,40.81,,0,
+57672,39282,Tadesse Gebregiorgis,M,30.0,174.0,66.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Welterweight,,0,26946079.0,0.007623039,91.74,42.355,,0,
+57673,39283,Zeragaber Gebrehiwot,M,24.0,167.0,63.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,"Cycling Men's Road Race, Individual",,0,35264898.0,0.007946678,89.59,43.746,,0,
+57676,39285,Gebre Egziabher Gebremariam,M,19.0,178.0,56.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 5,000 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+57677,39285,Gebre Egziabher Gebremariam,M,27.0,178.0,56.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 10,000 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+57678,39286,Mekonnen Gebremedhin Woldegeorgis,M,23.0,181.0,61.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 1,500 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+57679,39286,Mekonnen Gebremedhin Woldegeorgis,M,27.0,181.0,61.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+57680,39287,Yanet Seyoum Gebremedhin,F,18.0,164.0,56.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Swimming,Swimming Women's 50 metres Freestyle,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+57681,39288,Dejen Gebremeskel,M,22.0,180.0,58.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 5,000 metres",Silver,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+57682,39288,Dejen Gebremeskel,M,26.0,180.0,58.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+57683,39289,Rahel Fseha Gebresilassie,F,20.0,160.0,55.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+57684,39290,Hagos Gebrhiwet Berhe,M,18.0,171.0,56.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 5,000 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+57685,39290,Hagos Gebrhiwet Berhe,M,22.0,171.0,56.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",Bronze,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+57686,39291,Haile Gebrselassie,M,23.0,165.0,56.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Men's 10,000 metres",Gold,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+57687,39291,Haile Gebrselassie,M,27.0,165.0,56.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 10,000 metres",Gold,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+57688,39291,Haile Gebrselassie,M,31.0,165.0,56.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 10,000 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+57689,39291,Haile Gebrselassie,M,35.0,165.0,56.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+57820,39396,Erba Tiki Gelana,F,24.0,165.0,48.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Women's Marathon,Gold,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+58439,39862,Abebe Gessese,M,26.0,178.0,60.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Long Jump,,0,35264898.0,0.007946678,89.59,43.746,,0,
+58451,39869,Birhan Getahun,M,20.0,182.0,67.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+58511,39904,Asmelash Geyesus,M,24.0,170.0,68.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,"Cycling Men's Road Race, Individual",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+58512,39904,Asmelash Geyesus,M,24.0,170.0,68.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+58517,39912,Addis Gezahegn,F,,155.0,45.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Women's Marathon,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+58583,39971,Fisihasion Ghebreyesus,M,23.0,168.0,60.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,"Cycling Men's Road Race, Individual",,0,24397024.0,0.007487881,92.658,40.81,,0,
+58584,39971,Fisihasion Ghebreyesus,M,23.0,168.0,60.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,24397024.0,0.007487881,92.658,40.81,,0,
+58585,39971,Fisihasion Ghebreyesus,M,27.0,168.0,60.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,26946079.0,0.007623039,91.74,42.355,,0,
+58586,39971,Fisihasion Ghebreyesus,M,31.0,168.0,60.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,"Cycling Men's Road Race, Individual",,0,30132580.0,0.007849224,91.072,43.465,,0,
+58587,39971,Fisihasion Ghebreyesus,M,31.0,168.0,60.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,30132580.0,0.007849224,91.072,43.465,,0,
+58971,40224,Asha Gigi,F,31.0,165.0,48.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's Marathon,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+59635,40644,Zerehune Gizaw,M,27.0,180.0,70.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+63198,43051,Tsgabu Gebremaryam Grmay,M,24.0,175.0,63.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+65442,44541,Robel Kiros Habte,M,24.0,176.0,81.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 100 metres Freestyle,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+65447,44543,Matias Habtemichael,M,17.0,185.0,65.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,,0,26946079.0,0.007623039,91.74,42.355,,0,
+65448,44543,Matias Habtemichael,M,17.0,185.0,65.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 1,500 metres",,0,26946079.0,0.007623039,91.74,42.355,,0,
+65570,44616,Abadi Hadis Embaye,M,18.0,170.0,63.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+65815,44816,Chanyalew Haile,M,22.0,170.0,48.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Light-Flyweight,,0,30132580.0,0.007849224,91.072,43.465,,0,
+65816,44817,Tadesse Haile,M,27.0,165.0,60.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Lightweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+65817,44818,Zewdie Hailemariam,F,,170.0,51.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Women's 800 metres,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+65818,44819,Tekle Hailemikael,M,,,,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,"Cycling Men's Road Race, Individual",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+68260,46500,Shemisu Hassan,M,,168.0,56.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 20 kilometres Walk,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+79439,53946,Yacob Jarso Kintra,M,20.0,160.0,50.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+85881,58342,Endalkachew Kebede,M,23.0,158.0,48.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Light-Flyweight,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+85882,58343,Tsegaye Kebede Wordofa,M,21.0,158.0,50.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,Bronze,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+85909,58365,Haile Micael Kedir,M,35.0,179.0,67.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,35264898.0,0.007946678,89.59,43.746,,0,
+85910,58366,Mohamed Kedir,M,26.0,166.0,45.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 5,000 metres",,0,35264898.0,0.007946678,89.59,43.746,,0,
+85911,58366,Mohamed Kedir,M,26.0,166.0,45.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 10,000 metres",Bronze,0,35264898.0,0.007946678,89.59,43.746,,0,
+87872,59565,Werknesh Kidane,F,18.0,158.0,41.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 5,000 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+87873,59565,Werknesh Kidane,F,22.0,158.0,41.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 10,000 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+87874,59565,Werknesh Kidane,F,30.0,158.0,41.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 10,000 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+93979,63239,Tolossa Kotu,M,19.0,180.0,58.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 5,000 metres",,0,30132580.0,0.007849224,91.072,43.465,,0,
+93980,63239,Tolossa Kotu,M,27.0,180.0,58.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 10,000 metres",,0,35264898.0,0.007946678,89.59,43.746,,0,
+96745,64871,Yadessa Kuma,M,27.0,178.0,71.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Triple Jump,,0,35264898.0,0.007946678,89.59,43.746,,0,
+101864,68313,Meskerem Legesse,F,17.0,167.0,49.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 1,500 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+104268,69854,Feyisa Lilesa,M,26.0,175.0,67.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,Silver,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+113826,76189,Wohib Masresha,M,22.0,173.0,53.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 5,000 metres",,0,26946079.0,0.007623039,91.74,42.355,,0,
+113827,76189,Wohib Masresha,M,22.0,173.0,53.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 10,000 metres",,0,26946079.0,0.007623039,91.74,42.355,,0,
+113828,76189,Wohib Masresha,M,26.0,173.0,53.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 10,000 metres",,0,30132580.0,0.007849224,91.072,43.465,,0,
+116640,78152,Mitiku Megersa,M,19.0,170.0,60.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 1,500 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+116940,78355,Abebe Mekonnen,M,24.0,165.0,58.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Boxing,Boxing Men's Lightweight,,0,24397024.0,0.007487881,92.658,40.81,,0,
+116941,78356,Abebe Mekonnen,M,28.0,167.0,62.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+116942,78356,Abebe Mekonnen,M,32.0,167.0,62.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+116943,78357,Ayele Mekonnen,M,22.0,165.0,52.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,35264898.0,0.007946678,89.59,43.746,,0,
+116944,78358,Deresse Mekonnen Tsigu,M,20.0,175.0,60.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 1,500 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+116945,78359,Hailu Mekonnen,M,20.0,172.0,61.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 1,500 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+116946,78360,Seifu Mekonnen,M,20.0,182.0,81.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Light-Heavyweight,,0,30132580.0,0.007849224,91.072,43.465,,0,
+116947,78361,Tadesse Mekonnen,M,22.0,176.0,58.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,35264898.0,0.007946678,89.59,43.746,,0,
+117081,78458,Meselech Melkamu Haileyesus,F,23.0,158.0,48.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 5,000 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+117454,78730,Negousse Mengistou,M,28.0,169.0,64.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,22151278.0,0.007300549,93.567,38.419,,0,
+117611,78809,Gabrou Merawi,M,27.0,172.0,62.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,"Athletics Men's 5,000 metres",,0,22151278.0,0.007300549,93.567,38.419,,0,
+117612,78809,Gabrou Merawi,M,27.0,172.0,62.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,"Athletics Men's 10,000 metres",,0,22151278.0,0.007300549,93.567,38.419,,0,
+117613,78809,Gabrou Merawi,M,36.0,172.0,62.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's Marathon,,0,26946079.0,0.007623039,91.74,42.355,,0,
+117688,78874,Deriba Merga Ejigu,M,25.0,169.0,53.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+117690,78879,Aselefech Mergia,F,27.0,168.0,50.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Women's Marathon,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+117910,79016,Nahom Mesfin Tariku,M,19.0,180.0,62.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+117911,79016,Nahom Mesfin Tariku,M,23.0,180.0,62.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+118288,79272,Assefa Mezgebu,M,18.0,175.0,55.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Men's 5,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+118289,79272,Assefa Mezgebu,M,22.0,175.0,55.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 10,000 metres",Bronze,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+120201,80455,Tekeste Mitiku,M,18.0,170.0,57.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 20 kilometres Walk,,0,35264898.0,0.007946678,89.59,43.746,,0,
+120924,80895,Ayele Mohamed,M,22.0,173.0,54.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Bantamweight,,0,30132580.0,0.007849224,91.072,43.465,,0,
+120925,80895,Ayele Mohamed,M,30.0,173.0,54.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Bantamweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+120961,80930,Yohannes Mohamed,M,24.0,177.0,55.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,30132580.0,0.007849224,91.072,43.465,,0,
+120962,80930,Yohannes Mohamed,M,32.0,177.0,55.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 5,000 metres",,0,35264898.0,0.007946678,89.59,43.746,,0,
+122362,81900,Tigist Moreda,F,,155.0,50.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Women's 10,000 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+127205,85023,Dereje Nedi,M,26.0,175.0,55.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's Marathon,,0,35264898.0,0.007946678,89.59,43.746,,0,
+127237,85052,Leoul Neeraio,M,20.0,169.0,57.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Featherweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+127271,85068,Yemane Negassi Gebremariam,M,18.0,168.0,60.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,"Cycling Men's Road Race, Individual",,0,24397024.0,0.007487881,92.658,40.81,,0,
+127272,85068,Yemane Negassi Gebremariam,M,18.0,168.0,60.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,24397024.0,0.007487881,92.658,40.81,,0,
+127273,85068,Yemane Negassi Gebremariam,M,22.0,168.0,60.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,"Cycling Men's Road Race, Individual",,0,26946079.0,0.007623039,91.74,42.355,,0,
+127274,85068,Yemane Negassi Gebremariam,M,22.0,168.0,60.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,26946079.0,0.007623039,91.74,42.355,,0,
+127276,85071,Tena Negere,M,19.0,170.0,55.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+127286,85078,Roba Negousse,M,23.0,168.0,61.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 100 metres,,0,22151278.0,0.007300549,93.567,38.419,,0,
+127314,85104,Abebech Negussie,F,17.0,155.0,42.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 1,500 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+127315,85105,Hailu Negussie,M,26.0,170.0,60.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's Marathon,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+132415,88518,Mehari Okubamicael,M,23.0,182.0,70.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,"Cycling Men's Road Race, Individual",,0,26946079.0,0.007623039,91.74,42.355,,0,
+132416,88518,Mehari Okubamicael,M,27.0,182.0,70.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,30132580.0,0.007849224,91.072,43.465,,0,
+132825,88800,Beleynesh Oljira Jemane,F,22.0,165.0,49.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Women's 10,000 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+149161,99569,Shibrou Regassa,M,28.0,175.0,57.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,,0,30132580.0,0.007849224,91.072,43.465,,0,
+149162,99569,Shibrou Regassa,M,28.0,175.0,57.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 1,500 metres",,0,30132580.0,0.007849224,91.072,43.465,,0,
+149970,100130,Seifu Retta,M,25.0,175.0,71.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Light-Middleweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+151558,101226,Fatuma Roba,F,22.0,160.0,49.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Women's Marathon,Gold,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+151559,101226,Fatuma Roba,F,26.0,160.0,49.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's Marathon,,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+152749,101991,Jemal Rogora,M,20.0,174.0,58.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,"Cycling Men's Road Race, Individual",,0,35264898.0,0.007946678,89.59,43.746,,0,
+156099,104155,Besu Sado Beko,F,20.0,172.0,56.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 1,500 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+156272,104283,Mikael Carmelo Saglimbeni,M,23.0,170.0,65.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,"Cycling Men's Road Race, Individual",,0,24397024.0,0.007487881,92.658,40.81,,0,
+156273,104283,Mikael Carmelo Saglimbeni,M,23.0,170.0,65.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,24397024.0,0.007487881,92.658,40.81,,0,
+156274,104283,Mikael Carmelo Saglimbeni,M,27.0,170.0,65.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,"Cycling Men's Road Race, Individual",,0,26946079.0,0.007623039,91.74,42.355,,0,
+156275,104283,Mikael Carmelo Saglimbeni,M,27.0,170.0,65.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,26946079.0,0.007623039,91.74,42.355,,0,
+156311,104307,Kebede Sahilu,M,24.0,170.0,67.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Welterweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+156355,104343,Moussa Said,M,21.0,180.0,64.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 400 metres,,0,22151278.0,0.007300549,93.567,38.419,,0,
+156356,104343,Moussa Said,M,21.0,180.0,64.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 800 metres,,0,22151278.0,0.007300549,93.567,38.419,,0,
+156362,104347,Ebrahim Saide,M,28.0,168.0,64.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Light-Welterweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+161834,108125,Tafese Seboka,M,22.0,177.0,66.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+161841,108129,Mamo Sebsibe,M,20.0,172.0,62.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 800 metres,,0,24397024.0,0.007487881,92.658,40.81,,0,
+161842,108129,Mamo Sebsibe,M,20.0,172.0,62.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,"Athletics Men's 1,500 metres",,0,24397024.0,0.007487881,92.658,40.81,,0,
+161843,108129,Mamo Sebsibe,M,24.0,172.0,62.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's 800 metres,,0,26946079.0,0.007623039,91.74,42.355,,0,
+161967,108223,Dino Sefir,M,24.0,178.0,61.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+162125,108338,Fantahun Seifu,M,20.0,166.0,53.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Boxing,Boxing Men's Featherweight,,0,26946079.0,0.007623039,91.74,42.355,,0,
+163134,109011,Dawit Seyaum Biratu,F,20.0,161.0,49.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 1,500 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+164046,109599,Hassan Sherif,M,27.0,165.0,51.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Boxing,Boxing Men's Flyweight,,0,35264898.0,0.007946678,89.59,43.746,,0,
+164257,109728,Tewodros Shiferaw,M,23.0,176.0,59.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+164258,109729,Yohanes Shiferaw Yohanes,M,26.0,168.0,57.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Featherweight,,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+165015,110184,Hareg Sidelil,F,19.0,162.0,51.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 1,500 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+165311,110388,Sileshi Mekuria Sihine,M,21.0,168.0,58.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 10,000 metres",Silver,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+165312,110388,Sileshi Mekuria Sihine,M,25.0,168.0,58.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",Silver,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+166762,111363,Fantaye Sirak,F,16.0,164.0,48.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Women's 800 metres,,0,35264898.0,0.007946678,89.59,43.746,,0,
+176573,117745,Mestawat Tadesse,F,19.0,164.0,46.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 1,500 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+176574,117746,Mulugetta Tadesse,M,26.0,176.0,64.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 400 metres,,0,30132580.0,0.007849224,91.072,43.465,,0,
+176575,117746,Mulugetta Tadesse,M,26.0,176.0,64.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,,0,30132580.0,0.007849224,91.072,43.465,,0,
+176576,117746,Mulugetta Tadesse,M,26.0,176.0,64.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+178491,118996,Adisu Tebebu,M,19.0,170.0,60.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Boxing,Boxing Men's Lightweight,,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+178536,119019,Senbere Teferi,F,21.0,168.0,52.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 5,000 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+178611,119067,Robel Zemichael Teklemariam,M,31.0,177.0,65.0,Ethiopia,ETH,2006 Winter,2006,Winter,Torino,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,,0,78850689.0,0.011949933,84.101,57.333,15280861835.0,193.7949056,0.000297293
+178612,119067,Robel Zemichael Teklemariam,M,35.0,177.0,65.0,Ethiopia,ETH,2010 Winter,2010,Winter,Vancouver,Cross Country Skiing,Cross Country Skiing Men's 15 kilometres,,0,87702670.0,0.012654309,82.681,61.625,29933790334.0,341.3099092,0.000453542
+179066,119360,Daniel Tesfaye,M,,173.0,65.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+179068,119363,Mulualem Girma Teshale,M,24.0,179.0,60.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Swimming,Swimming Men's 50 metres Freestyle,,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+179093,119374,Amousse Tessema,M,28.0,176.0,68.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,"Cycling Men's Road Race, Individual",,0,22151278.0,0.007300549,93.567,38.419,,0,
+179094,119374,Amousse Tessema,M,28.0,176.0,68.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,22151278.0,0.007300549,93.567,38.419,,0,
+180525,120332,Askale Tiksa Benti,F,22.0,165.0,52.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 20 kilometres Walk,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+181306,120780,Tamirat Tola Abera,M,24.0,181.0,59.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",Bronze,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+181307,120781,Tesfaye Tola,M,25.0,167.0,60.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,Bronze,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+181308,120782,Workenesh Tola,F,23.0,168.0,50.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's Marathon,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+181344,120821,Girma Tolla,M,24.0,174.0,57.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 10,000 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+181372,120838,Ambesse Tolosa,M,26.0,168.0,56.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's Marathon,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+182336,121477,Hunde Toure,M,29.0,180.0,70.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 20 kilometres Walk,,0,30132580.0,0.007849224,91.072,43.465,,0,
+182337,121477,Hunde Toure,M,37.0,180.0,70.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 20 kilometres Walk,,0,35264898.0,0.007946678,89.59,43.746,,0,
+183593,122256,Gudaf Tsegay Desta,F,19.0,163.0,50.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 800 metres,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+183595,122258,Tirfi Tsegaye Beyene,F,31.0,162.0,52.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's Marathon,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+184084,122519,Mestawet Tufa Demisse,F,21.0,158.0,46.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 10,000 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+184085,122520,Tigist Tufa,F,29.0,,,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's Marathon,,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+184091,122525,Besha Tuffa,M,26.0,180.0,64.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 100 metres,,0,35264898.0,0.007946678,89.59,43.746,,0,
+184092,122525,Besha Tuffa,M,26.0,180.0,64.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 200 metres,,0,35264898.0,0.007946678,89.59,43.746,,0,
+184093,122525,Besha Tuffa,M,26.0,180.0,64.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 4 x 400 metres Relay,,0,35264898.0,0.007946678,89.59,43.746,,0,
+184169,122584,Derartu Tulu,F,20.0,160.0,45.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Women's 10,000 metres",Gold,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+184170,122584,Derartu Tulu,F,24.0,160.0,45.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Women's 10,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+184171,122584,Derartu Tulu,F,28.0,160.0,45.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 10,000 metres",Gold,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+184172,122584,Derartu Tulu,F,32.0,160.0,45.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 10,000 metres",Bronze,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+184217,122621,Dire Tune Arissi,F,23.0,158.0,42.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's Marathon,,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+184273,122666,Eshetu Tura,M,30.0,179.0,66.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 3,000 metres Steeplechase",Bronze,0,35264898.0,0.007946678,89.59,43.746,,0,
+184290,122680,Tumo Turbo,M,26.0,170.0,63.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+185530,123470,"Gentenesh ""Gete"" Urge",F,21.0,157.0,52.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Women's 1,500 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+191985,128006,Abebe Wakgira,M,38.0,171.0,55.0,Ethiopia,ETH,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Marathon,,0,22151278.0,0.007300549,93.567,38.419,,0,
+192074,128060,Luleseged Wale,M,22.0,176.0,54.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+192439,128367,"Getenesh ""Gete"" Wami Degife",F,21.0,152.0,42.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Women's 10,000 metres",Bronze,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+192440,128367,"Getenesh ""Gete"" Wami Degife",F,25.0,152.0,42.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 5,000 metres",Bronze,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+192441,128367,"Getenesh ""Gete"" Wami Degife",F,25.0,152.0,42.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 10,000 metres",Silver,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+192442,128367,"Getenesh ""Gete"" Wami Degife",F,33.0,152.0,42.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's Marathon,,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+194293,129608,Mulugeta Wendimu Gebere,M,19.0,173.0,57.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 1,500 metres",,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+194294,129608,Mulugeta Wendimu Gebere,M,23.0,173.0,57.0,Ethiopia,ETH,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 1,500 metres",,0,83184892.0,0.012298643,83.49,59.58,27066912635.0,325.3825543,0.000426251
+196542,131203,Tereje Wodajo,M,22.0,157.0,53.0,Ethiopia,ETH,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's Marathon,,0,74624405.0,0.011594217,84.496,55.172,10131187261.0,135.7623858,0.000231306
+196671,131281,Dawit Wolde Arega,M,21.0,180.0,64.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 1,500 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+196672,131281,Dawit Wolde Arega,M,25.0,180.0,64.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+196673,131282,Demissie Wolde,M,27.0,165.0,53.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's Marathon,,0,24397024.0,0.007487881,92.658,40.81,,0,
+196674,131282,Demissie Wolde,M,35.0,165.0,53.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's Marathon,,0,30132580.0,0.007849224,91.072,43.465,,0,
+196675,131283,Mamo Wolde,M,32.0,170.0,54.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,"Athletics Men's 10,000 metres",,0,24397024.0,0.007487881,92.658,40.81,,0,
+196676,131283,Mamo Wolde,M,32.0,170.0,54.0,Ethiopia,ETH,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's Marathon,,0,24397024.0,0.007487881,92.658,40.81,,0,
+196677,131283,Mamo Wolde,M,36.0,170.0,54.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 5,000 metres",,0,26946079.0,0.007623039,91.74,42.355,,0,
+196678,131283,Mamo Wolde,M,36.0,170.0,54.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 10,000 metres",Silver,0,26946079.0,0.007623039,91.74,42.355,,0,
+196679,131283,Mamo Wolde,M,36.0,170.0,54.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,Athletics Men's Marathon,Gold,0,26946079.0,0.007623039,91.74,42.355,,0,
+196680,131283,Mamo Wolde,M,40.0,170.0,54.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's Marathon,Bronze,0,30132580.0,0.007849224,91.072,43.465,,0,
+196681,131284,Million Wolde,M,21.0,175.0,59.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 5,000 metres",Gold,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+196682,131285,Girma Wolde-Hana,M,27.0,178.0,60.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,35264898.0,0.007946678,89.59,43.746,,0,
+196683,131286,Tadesse Wolde-Medhin,M,32.0,175.0,56.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,26946079.0,0.007623039,91.74,42.355,,0,
+196684,131286,Tadesse Wolde-Medhin,M,35.0,175.0,56.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 10,000 metres",,0,30132580.0,0.007849224,91.072,43.465,,0,
+196685,131287,Hailu Wolde-Tsadik,M,30.0,180.0,59.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,35264898.0,0.007946678,89.59,43.746,,0,
+196686,131288,Amsale Woldegibriel,F,19.0,164.0,52.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Women's 1,500 metres",,0,35264898.0,0.007946678,89.59,43.746,,0,
+196687,131289,Yared Woldemichael,M,28.0,,71.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Boxing,Boxing Men's Light-Middleweight,,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+196688,131291,Tilahun Woldesenbet,M,20.0,175.0,69.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,"Cycling Men's Road Race, Individual",,0,35264898.0,0.007946678,89.59,43.746,,0,
+196689,131292,Tekeste Woldu,M,23.0,180.0,65.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,"Cycling Men's Road Race, Individual",,0,26946079.0,0.007623039,91.74,42.355,,0,
+196690,131292,Tekeste Woldu,M,23.0,180.0,65.0,Ethiopia,ETH,1968 Summer,1968,Summer,Mexico City,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,26946079.0,0.007623039,91.74,42.355,,0,
+196691,131292,Tekeste Woldu,M,27.0,180.0,65.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,"Cycling Men's Road Race, Individual",,0,30132580.0,0.007849224,91.072,43.465,,0,
+196692,131292,Tekeste Woldu,M,27.0,180.0,65.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Cycling,Cycling Men's 100 kilometres Team Time Trial,,0,30132580.0,0.007849224,91.072,43.465,,0,
+197122,131593,Ayelech Worku,F,17.0,165.0,47.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Women's 5,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+197123,131593,Ayelech Worku,F,21.0,165.0,47.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 5,000 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+197124,131594,Shoangizaw Worku,M,25.0,180.0,68.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 4 x 400 metres Relay,,0,30132580.0,0.007849224,91.072,43.465,,0,
+197176,131635,Aman Wote Fete,M,28.0,183.0,68.0,Ethiopia,ETH,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 1,500 metres",,0,92444183.0,0.013025076,81.84,63.275,43310721414.0,468.5067249,0.000578247
+199277,132829,Lema Yemane,M,21.0,170.0,57.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Boxing,Boxing Men's Featherweight,,0,30132580.0,0.007849224,91.072,43.465,,0,
+199436,132909,Ababel Yeshaneh Birhane,F,25.0,165.0,54.0,Ethiopia,ETH,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 5,000 metres",,0,102403196.0,0.013759921,80.078,65.475,72374224249.0,706.7574751,0.000954805
+199540,132960,Miruts Yifter,M,28.0,162.0,53.0,Ethiopia,ETH,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 10,000 metres",Bronze,0,30132580.0,0.007849224,91.072,43.465,,0,
+199541,132960,Miruts Yifter,M,36.0,162.0,53.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 5,000 metres",Gold,0,35264898.0,0.007946678,89.59,43.746,,0,
+199542,132960,Miruts Yifter,M,36.0,162.0,53.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 10,000 metres",Gold,0,35264898.0,0.007946678,89.59,43.746,,0,
+199606,132999,Luchia Yishak,F,19.0,155.0,50.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Women's 10,000 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311
+199607,132999,Luchia Yishak,F,23.0,155.0,50.0,Ethiopia,ETH,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Women's 5,000 metres",,0,59155148.0,0.010212249,85.994,49.811,8547939731.0,144.5003524,0.000270504
+199664,133030,Musse Yohannes,M,21.0,172.0,57.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Cycling,"Cycling Men's Road Race, Individual",,0,35264898.0,0.007946678,89.59,43.746,,0,
+201593,134230,Daniel Zegeye,M,21.0,180.0,58.0,Ethiopia,ETH,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 1,500 metres",,0,66537331.0,0.010875533,85.26,51.94,8242392104.0,123.8762057,0.000245309
+201840,134372,Abebe Zerihun,M,25.0,167.0,52.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,Athletics Men's 800 metres,,0,35264898.0,0.007946678,89.59,43.746,,0,
+201851,134384,Haile Zeru,M,25.0,160.0,51.0,Ethiopia,ETH,1980 Summer,1980,Summer,Moskva,Athletics,"Athletics Men's 1,500 metres",,0,35264898.0,0.007946678,89.59,43.746,,0,
+201887,134397,Hailu Zewde,M,17.0,173.0,60.0,Ethiopia,ETH,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 1,500 metres",,0,51647768.0,0.009465988,86.884,47.912,10492993078.0,203.1645022,0.00041311

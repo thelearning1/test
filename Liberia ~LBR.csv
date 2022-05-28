@@ -1,0 +1,64 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+1266,888,Jangy McKinley Addy,M,23.0,188.0,88.0,Liberia,LBR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Decathlon,,0,3662993.0,0.000541563,52.912,58.167,850040500.0,232.061732,1.34e-05
+1267,888,Jangy McKinley Addy,M,27.0,188.0,88.0,Liberia,LBR,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Decathlon,,0,4181563.0,0.000589168,51.459,60.615,1735500000.0,415.0361958,2.32e-05
+16992,11661,Samuel Birch,M,25.0,,,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 100 metres,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+33501,22936,Hannah Gizelle Cooper,F,21.0,,,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 100 metres Hurdles,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+33529,22955,Sayon Cooper,M,22.0,175.0,74.0,Liberia,LBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 100 metres,,0,2191179.0,0.000378274,57.036,50.984,159400000.0,72.74622475,5.04e-06
+33530,22955,Sayon Cooper,M,22.0,175.0,74.0,Liberia,LBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2191179.0,0.000378274,57.036,50.984,159400000.0,72.74622475,5.04e-06
+33531,22955,Sayon Cooper,M,26.0,175.0,74.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 100 metres,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+33532,22955,Sayon Cooper,M,26.0,175.0,74.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 200 metres,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+33533,22955,Sayon Cooper,M,26.0,175.0,74.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+36770,25223,Oliver Daniels,M,20.0,172.0,59.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 100 metres,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+36771,25223,Oliver Daniels,M,20.0,172.0,59.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+36772,25223,Oliver Daniels,M,24.0,172.0,59.0,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 100 metres,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+36773,25223,Oliver Daniels,M,24.0,172.0,59.0,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 200 metres,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+37485,25707,Kia Davis,F,32.0,170.0,54.0,Liberia,LBR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 200 metres,,0,3662993.0,0.000541563,52.912,58.167,850040500.0,232.061732,1.34e-05
+37486,25707,Kia Davis,F,32.0,170.0,54.0,Liberia,LBR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 400 metres,,0,3662993.0,0.000541563,52.912,58.167,850040500.0,232.061732,1.34e-05
+39957,27634,Robert M. Dennis,M,21.0,177.0,77.0,Liberia,LBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 100 metres,,0,2191179.0,0.000378274,57.036,50.984,159400000.0,72.74622475,5.04e-06
+39958,27634,Robert M. Dennis,M,21.0,177.0,77.0,Liberia,LBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2191179.0,0.000378274,57.036,50.984,159400000.0,72.74622475,5.04e-06
+41485,28679,Grace Ann Dinkins,F,17.0,170.0,54.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 100 metres,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+41486,28679,Grace Ann Dinkins,F,29.0,170.0,54.0,Liberia,LBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Women's 400 metres,,0,2191179.0,0.000378274,57.036,50.984,159400000.0,72.74622475,5.04e-06
+41487,28679,Grace Ann Dinkins,F,34.0,170.0,54.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 100 metres,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+57612,39247,"Thomas ""Tommy"" Gbay",M,29.0,,,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Lightweight,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+73749,50357,Thomas O'Brien Howe,M,27.0,183.0,77.0,Liberia,LBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,,0,1493711.0,0.000389096,72.287,40.522,368098000.0,246.4318734,9.76e-05
+81510,55378,George Hy Johnson,M,22.0,175.0,64.0,Liberia,LBR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 400 metres,,0,1120313.0,0.000369229,81.368,34.671,190495600.0,170.0378376,0.000139048
+81511,55378,George Hy Johnson,M,22.0,175.0,64.0,Liberia,LBR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 800 metres,,0,1120313.0,0.000369229,81.368,34.671,190495600.0,170.0378376,0.000139048
+81654,55476,Wesley Momo Johnson,M,20.0,168.0,58.0,Liberia,LBR,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 100 metres,,0,1224344.0,0.000375773,78.622,36.049,218929100.0,178.813389,0.000121627
+81655,55476,Wesley Momo Johnson,M,20.0,168.0,58.0,Liberia,LBR,1964 Summer,1964,Summer,Tokyo,Athletics,Athletics Men's 200 metres,,0,1224344.0,0.000375773,78.622,36.049,218929100.0,178.813389,0.000121627
+84342,57382,Edward Kar,M,18.0,170.0,61.0,Liberia,LBR,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 1,500 metres",,0,1493711.0,0.000389096,72.287,40.522,368098000.0,246.4318734,9.76e-05
+95616,64242,Mariam Kromah,F,22.0,,,Liberia,LBR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 400 metres,,0,4613823.0,0.00061996,49.9,62.505,2101000000.0,455.3707414,2.77e-05
+97426,65308,Phobay Kutu-Akoi,F,25.0,162.0,57.0,Liberia,LBR,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 100 metres,,0,4181563.0,0.000589168,51.459,60.615,1735500000.0,415.0361958,2.32e-05
+113845,76202,Alifu Albert Massaquoi,M,23.0,172.0,68.0,Liberia,LBR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's Marathon,,0,1120313.0,0.000369229,81.368,34.671,190495600.0,170.0378376,0.000139048
+113998,76331,Emmanuel Matadi,M,25.0,,,Liberia,LBR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,,0,4613823.0,0.00061996,49.9,62.505,2101000000.0,455.3707414,2.77e-05
+113999,76331,Emmanuel Matadi,M,25.0,,,Liberia,LBR,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 200 metres,,0,4613823.0,0.00061996,49.9,62.505,2101000000.0,455.3707414,2.77e-05
+114827,76894,Kouty Mawenh,M,24.0,181.0,80.0,Liberia,LBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2191179.0,0.000378274,57.036,50.984,159400000.0,72.74622475,5.04e-06
+114828,76894,Kouty Mawenh,M,28.0,181.0,80.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+115907,77634,Raasin G. McIntosh,F,30.0,170.0,59.0,Liberia,LBR,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 400 metres Hurdles,,0,4181563.0,0.000589168,51.459,60.615,1735500000.0,415.0361958,2.32e-05
+122823,82178,Koiyan Abraham Morlu,M,19.0,183.0,84.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+123425,82593,Augustus Moulton,M,24.0,173.0,64.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 200 metres,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+123426,82593,Augustus Moulton,M,24.0,173.0,64.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+127887,85449,"Edward Dosa-Wea ""Eddie"" Neufville",M,19.0,186.0,83.0,Liberia,LBR,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2191179.0,0.000378274,57.036,50.984,159400000.0,72.74622475,5.04e-06
+129688,86649,Thomas N'Ma,M,28.0,175.0,64.0,Liberia,LBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 400 metres,,0,1493711.0,0.000389096,72.287,40.522,368098000.0,246.4318734,9.76e-05
+131333,87773,Wallace O. Obey,M,22.0,172.0,64.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+146365,97664,Emmanuel Gbecy Putu,M,21.0,,,Liberia,LBR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 100 metres,,0,1120313.0,0.000369229,81.368,34.671,190495600.0,170.0378376,0.000139048
+150067,100210,Andrew G. Reyes,M,25.0,180.0,73.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+151675,101299,James L. Roberts,M,23.0,,,Liberia,LBR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 100 metres,,0,1120313.0,0.000369229,81.368,34.671,190495600.0,170.0378376,0.000139048
+151676,101299,James L. Roberts,M,23.0,,,Liberia,LBR,1960 Summer,1960,Summer,Roma,Athletics,Athletics Men's 200 metres,,0,1120313.0,0.000369229,81.368,34.671,190495600.0,170.0378376,0.000139048
+156378,104359,Dominic Saidu,M,22.0,180.0,71.0,Liberia,LBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 200 metres,,0,1493711.0,0.000389096,72.287,40.522,368098000.0,246.4318734,9.76e-05
+158627,105813,Samuel Sarkpa,M,23.0,175.0,64.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 400 metres,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+158695,105863,Andrew Sartee,M,23.0,168.0,61.0,Liberia,LBR,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 100 metres,,0,1493711.0,0.000389096,72.287,40.522,368098000.0,246.4318734,9.76e-05
+162053,108295,Paul Sehzue,M,22.0,,,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 110 metres Hurdles,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+172266,114992,Thomas Stephens,M,18.0,,,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Bantamweight,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+172554,115176,"Samuel ""Sammy"" Stewart",M,19.0,161.0,48.0,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Flyweight,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+173716,115934,Simeon Stubblefield,M,29.0,,,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Middleweight,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+177161,118122,Hassan Tall,M,20.0,173.0,60.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+179851,119909,Gladys Thompson,F,21.0,145.0,56.0,Liberia,LBR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's 200 metres,,0,3176414.0,0.000493512,54.294,54.084,474700000.0,149.4452549,1.08e-05
+183297,122103,"Robert ""Bobby"" True",M,22.0,183.0,70.0,Liberia,LBR,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 800 metres,,0,2884522.0,0.000471475,55.669,52.423,529064600.0,183.4149991,1.57e-05
+184045,122497,Sultan Tucker,M,25.0,183.0,88.0,Liberia,LBR,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 110 metres Hurdles,,0,3176414.0,0.000493512,54.294,54.084,474700000.0,149.4452549,1.08e-05
+184624,122915,Nimley Twegbe,M,20.0,170.0,59.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,"Athletics Men's 5,000 metres",,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+184625,122915,Nimley Twegbe,M,20.0,170.0,59.0,Liberia,LBR,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Marathon,,0,2159089.0,0.000453592,60.166,47.206,848478300.0,392.9797706,7.01e-05
+184626,122915,Nimley Twegbe,M,25.0,170.0,59.0,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+191608,127720,Melvina Vulah,F,22.0,168.0,59.0,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's 100 metres,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+191609,127720,Melvina Vulah,F,22.0,168.0,59.0,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's 200 metres,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+191610,127720,Melvina Vulah,F,22.0,168.0,59.0,Liberia,LBR,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's Long Jump,,0,2165090.0,0.000424053,49.805,47.189,1038300000.0,479.5643599,5.44e-05
+195761,130676,Siraj Williams,M,24.0,178.0,,Liberia,LBR,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 400 metres,,0,3662993.0,0.000541563,52.912,58.167,850040500.0,232.061732,1.34e-05

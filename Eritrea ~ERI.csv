@@ -1,0 +1,44 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+217,160,Ali Abdalla Afringi,M,25.0,163.0,57.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 5,000 metres",,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+1309,915,Abrar Osman Adem,M,18.0,168.0,58.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 5,000 metres",,0,,,,63.22,,#DIV/0!,
+1310,915,Abrar Osman Adem,M,22.0,168.0,58.0,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",,0,,,,65.092,,#DIV/0!,
+8073,5638,Bolota Asmerom,M,21.0,178.0,62.0,Eritrea,ERI,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 5,000 metres",,0,3392801.0,0.000554554,82.445,55.258,706370815.6,208.1969487,2.1e-05
+8074,5639,Yared Asmerom Tesfit,M,28.0,171.0,58.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+8075,5639,Yared Asmerom Tesfit,M,32.0,171.0,58.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,,0,,,,63.22,,#DIV/0!,
+48370,33311,Tewelde Estifanos Hidru,M,34.0,,,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,,0,,,,65.092,,#DIV/0!,
+58581,39969,Weynay Ghebresilasie,M,18.0,182.0,62.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,,,,63.22,,#DIV/0!,
+58582,39970,Ghirmay Ghebreslassie,M,20.0,,,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,,0,,,,65.092,,#DIV/0!,
+65443,44542,Nebiat Habtemariam Measho,F,21.0,159.0,40.0,Eritrea,ERI,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Women's 5,000 metres",,0,3392801.0,0.000554554,82.445,55.258,706370815.6,208.1969487,2.1e-05
+65444,44542,Nebiat Habtemariam Measho,F,25.0,159.0,40.0,Eritrea,ERI,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Women's 5,000 metres",,0,3858623.0,0.000599505,81.405,57.916,1109054005.0,287.4222242,2.53e-05
+65445,44542,Nebiat Habtemariam Measho,F,29.0,159.0,40.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's Marathon,,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+65446,44542,Nebiat Habtemariam Measho,F,37.0,159.0,40.0,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's Marathon,,0,,,,65.092,,#DIV/0!,
+65819,44820,Yemane Haileselassie,M,18.0,,,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,,,,65.092,,#DIV/0!,
+88014,59655,Aron Kifle,M,18.0,,,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",,0,,,,65.092,,#DIV/0!,
+88015,59656,Goitom Kifle,M,22.0,,,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",,0,,,,65.092,,#DIV/0!,
+88016,59657,Yonas Andebrhan Kifle,M,23.0,166.0,57.0,Eritrea,ERI,2000 Summer,2000,Summer,Sydney,Athletics,"Athletics Men's 10,000 metres",,0,3392801.0,0.000554554,82.445,55.258,706370815.6,208.1969487,2.1e-05
+88017,59657,Yonas Andebrhan Kifle,M,27.0,166.0,57.0,Eritrea,ERI,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 10,000 metres",,0,3858623.0,0.000599505,81.405,57.916,1109054005.0,287.4222242,2.53e-05
+88018,59657,Yonas Andebrhan Kifle,M,31.0,166.0,57.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+88019,59657,Yonas Andebrhan Kifle,M,35.0,166.0,57.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,,0,,,,63.22,,#DIV/0!,
+88020,59658,Samson Kiflemariam,M,20.0,168.0,54.0,Eritrea,ERI,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 5,000 metres",,0,3858623.0,0.000599505,81.405,57.916,1109054005.0,287.4222242,2.53e-05
+116457,78045,Teklemariam Medhin Weldeslassie,M,19.0,184.0,65.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+116458,78045,Teklemariam Medhin Weldeslassie,M,23.0,184.0,65.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 10,000 metres",,0,,,,63.22,,#DIV/0!,
+116678,78171,Rehaset Mehari,F,23.0,165.0,51.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,Athletics Women's Marathon,,0,,,,63.22,,#DIV/0!,
+117908,79015,Amanuel Mesel Tikue,M,21.0,177.0,59.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 5,000 metres",,0,,,,63.22,,#DIV/0!,
+117909,79015,Amanuel Mesel Tikue,M,25.0,177.0,59.0,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,,0,,,,65.092,,#DIV/0!,
+117912,79017,Tesfayohannes Mesfin,M,33.0,182.0,62.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's Marathon,,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+174467,116395,Simret Sultan Ghebermichael,F,24.0,165.0,48.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Women's 5,000 metres",,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+176571,117744,Kidane Tadesse Habtesilase,M,21.0,170.0,54.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 5,000 metres",,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+176572,117744,Kidane Tadesse Habtesilase,M,21.0,170.0,54.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+176577,117747,Zersenay Tadesse Habtesilase,M,22.0,160.0,54.0,Eritrea,ERI,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 5,000 metres",,0,3858623.0,0.000599505,81.405,57.916,1109054005.0,287.4222242,2.53e-05
+176578,117747,Zersenay Tadesse Habtesilase,M,22.0,160.0,54.0,Eritrea,ERI,2004 Summer,2004,Summer,Athina,Athletics,"Athletics Men's 10,000 metres",Bronze,0,3858623.0,0.000599505,81.405,57.916,1109054005.0,287.4222242,2.53e-05
+176579,117747,Zersenay Tadesse Habtesilase,M,26.0,160.0,54.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 10,000 metres",,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05
+176580,117747,Zersenay Tadesse Habtesilase,M,30.0,160.0,54.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 10,000 metres",,0,,,,63.22,,#DIV/0!,
+176581,117747,Zersenay Tadesse Habtesilase,M,34.0,160.0,54.0,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",,0,,,,65.092,,#DIV/0!,
+178609,119066,Daniel Teklehaymanot Girmazion,M,23.0,188.0,71.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Cycling,"Cycling Men's Road Race, Individual",,0,,,,63.22,,#DIV/0!,
+178610,119066,Daniel Teklehaymanot Girmazion,M,27.0,188.0,71.0,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Cycling,"Cycling Men's Road Race, Individual",,0,,,,65.092,,#DIV/0!,
+179064,119359,Nguse Tesfaldet Amlosom,M,25.0,180.0,56.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 10,000 metres",,0,,,,63.22,,#DIV/0!,
+179065,119359,Nguse Tesfaldet Amlosom,M,29.0,180.0,56.0,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 10,000 metres",,0,,,,65.092,,#DIV/0!,
+179171,119431,Hiskel Tewelde,M,29.0,,,Eritrea,ERI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 5,000 metres",,0,,,,65.092,,#DIV/0!,
+179173,119433,Teklit Teweldebrhan,M,18.0,172.0,65.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 1,500 metres",,0,,,,63.22,,#DIV/0!,
+183594,122257,Samuel Tsegay Tesfamriam,M,24.0,176.0,59.0,Eritrea,ERI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Marathon,,0,,,,63.22,,#DIV/0!,
+194133,129492,Hais Welday Ghebrat,M,18.0,161.0,54.0,Eritrea,ERI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 1,500 metres",,0,4232636.0,0.000625783,80.146,60.94,1380188800.0,326.0825642,2.17e-05

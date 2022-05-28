@@ -1,0 +1,37 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+30190,20608,Karma Chhoden,F,18.0,174.0,55.0,Bhutan,BTN,1984 Summer,1984,Summer,Los Angeles,Archery,Archery Women's Individual,,0,453720.0,9.53e-05,87.668,48.442,169264991.2,373.0604584,1.4e-05
+30693,20953,Kunzang Choden,F,27.0,158.0,69.0,Bhutan,BTN,2012 Summer,2012,Summer,London,Shooting,"Shooting Women's Air Rifle, 10 metres",,0,752967.0,0.000106091,63.632,68.639,1823692110.0,2422.008016,2.43e-05
+30694,20954,Tshering Choden,F,21.0,165.0,52.0,Bhutan,BTN,2000 Summer,2000,Summer,Sydney,Archery,Archery Women's Individual,,0,573416.0,9.37e-05,74.582,60.758,439158233.2,765.8632358,1.31e-05
+30695,20954,Tshering Choden,F,25.0,165.0,52.0,Bhutan,BTN,2004 Summer,2004,Summer,Athina,Archery,Archery Women's Individual,,0,640282.0,9.95e-05,70.165,64.126,702682019.0,1097.457088,1.6e-05
+31359,21405,Sonam Chuki,F,21.0,163.0,48.0,Bhutan,BTN,1984 Summer,1984,Summer,Los Angeles,Archery,Archery Women's Individual,,0,453720.0,9.53e-05,87.668,48.442,169264991.2,373.0604584,1.4e-05
+39600,27416,Dorji Dema,F,24.0,168.0,57.0,Bhutan,BTN,2008 Summer,2008,Summer,Beijing,Archery,Archery Women's Individual,,0,700950.0,0.000103633,66.764,66.792,1258332337.0,1795.181307,1.98e-05
+42782,29503,Thinley Dorji,M,33.0,180.0,75.0,Bhutan,BTN,1984 Summer,1984,Summer,Los Angeles,Archery,Archery Men's Individual,,0,453720.0,9.53e-05,87.668,48.442,169264991.2,373.0604584,1.4e-05
+42783,29503,Thinley Dorji,M,37.0,180.0,75.0,Bhutan,BTN,1988 Summer,1988,Summer,Seoul,Archery,Archery Men's Individual,,0,517273.0,0.000101313,85.071,51.372,283855833.3,548.7543972,1.49e-05
+42784,29503,Thinley Dorji,M,37.0,180.0,75.0,Bhutan,BTN,1988 Summer,1988,Summer,Seoul,Archery,Archery Men's Team,,0,517273.0,0.000101313,85.071,51.372,283855833.3,548.7543972,1.49e-05
+82607,56183,Jubzang Jubzang,M,21.0,163.0,55.0,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Men's Individual,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+82608,56183,Jubzang Jubzang,M,21.0,163.0,55.0,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Men's Team,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+82609,56183,Jubzang Jubzang,M,25.0,163.0,55.0,Bhutan,BTN,1996 Summer,1996,Summer,Atlanta,Archery,Archery Men's Individual,,0,519282.0,8.96e-05,78.544,57.432,316420860.9,609.3430177,1e-05
+82610,56183,Jubzang Jubzang,M,29.0,163.0,55.0,Bhutan,BTN,2000 Summer,2000,Summer,Sydney,Archery,Archery Men's Individual,,0,573416.0,9.37e-05,74.582,60.758,439158233.2,765.8632358,1.31e-05
+84765,57666,Karma,F,26.0,163.0,51.0,Bhutan,BTN,2016 Summer,2016,Summer,Rio de Janeiro,Archery,Archery Women's Individual,,0,797765.0,0.000107196,60.623,70.197,2212638830.0,2773.547135,2.92e-05
+96950,65022,Lenchu Kunzang,F,24.0,165.0,59.0,Bhutan,BTN,2016 Summer,2016,Summer,Rio de Janeiro,Shooting,"Shooting Women's Air Rifle, 10 metres",,0,797765.0,0.000107196,60.623,70.197,2212638830.0,2773.547135,2.92e-05
+103259,69297,Rinzi Lham,F,16.0,163.0,57.0,Bhutan,BTN,1984 Summer,1984,Summer,Los Angeles,Archery,Archery Women's Individual,,0,453720.0,9.53e-05,87.668,48.442,169264991.2,373.0604584,1.4e-05
+103260,69298,Namgyal Lhamu,F,18.0,163.0,57.0,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Women's Individual,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+103261,69298,Namgyal Lhamu,F,18.0,163.0,57.0,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Women's Team,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+138935,92836,Tashi Peljor,M,26.0,170.0,63.0,Bhutan,BTN,2004 Summer,2004,Summer,Athina,Archery,Archery Men's Individual,,0,640282.0,9.95e-05,70.165,64.126,702682019.0,1097.457088,1.6e-05
+138936,92836,Tashi Peljor,M,30.0,170.0,63.0,Bhutan,BTN,2008 Summer,2008,Summer,Beijing,Archery,Archery Men's Individual,,0,700950.0,0.000103633,66.764,66.792,1258332337.0,1795.181307,1.98e-05
+139066,92928,Nawang-Dash Pelzang,M,33.0,176.0,60.0,Bhutan,BTN,1984 Summer,1984,Summer,Los Angeles,Archery,Archery Men's Individual,,0,453720.0,9.53e-05,87.668,48.442,169264991.2,373.0604584,1.4e-05
+178783,119188,Karma Tenzin,M,19.0,,,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Men's Individual,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+178784,119188,Karma Tenzin,M,19.0,,,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Men's Team,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+183641,122289,Jigme Tshering,M,28.0,163.0,58.0,Bhutan,BTN,1988 Summer,1988,Summer,Seoul,Archery,Archery Men's Individual,,0,517273.0,0.000101313,85.071,51.372,283855833.3,548.7543972,1.49e-05
+183642,122289,Jigme Tshering,M,28.0,163.0,58.0,Bhutan,BTN,1988 Summer,1988,Summer,Seoul,Archery,Archery Men's Team,,0,517273.0,0.000101313,85.071,51.372,283855833.3,548.7543972,1.49e-05
+183643,122290,Lhendup Tshering,M,37.0,173.0,77.0,Bhutan,BTN,1984 Summer,1984,Summer,Los Angeles,Archery,Archery Men's Individual,,0,453720.0,9.53e-05,87.668,48.442,169264991.2,373.0604584,1.4e-05
+183644,122291,Pem Tshering,F,16.0,,,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Women's Individual,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+183645,122291,Pem Tshering,F,16.0,,,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Women's Team,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+183646,122292,Pema Tshering,M,37.0,165.0,65.0,Bhutan,BTN,1988 Summer,1988,Summer,Seoul,Archery,Archery Men's Individual,,0,517273.0,0.000101313,85.071,51.372,283855833.3,548.7543972,1.49e-05
+183647,122292,Pema Tshering,M,37.0,165.0,65.0,Bhutan,BTN,1988 Summer,1988,Summer,Seoul,Archery,Archery Men's Team,,0,517273.0,0.000101313,85.071,51.372,283855833.3,548.7543972,1.49e-05
+183648,122292,Pema Tshering,M,41.0,165.0,65.0,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Men's Individual,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+183649,122292,Pema Tshering,M,41.0,165.0,65.0,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Men's Team,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+183651,122294,Karma Tshomo,F,18.0,,,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Women's Individual,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+183652,122294,Karma Tshomo,F,18.0,,,Bhutan,BTN,1992 Summer,1992,Summer,Barcelona,Archery,Archery Women's Team,,0,531525.0,9.74e-05,82.038,54.393,250794359.6,471.8392542,9.87e-06
+185039,123169,Ugyen Ugyen,F,22.0,,,Bhutan,BTN,1996 Summer,1996,Summer,Atlanta,Archery,Archery Women's Individual,,0,519282.0,8.96e-05,78.544,57.432,316420860.9,609.3430177,1e-05
+201041,133845,Sherab Zam,F,28.0,152.0,51.0,Bhutan,BTN,2012 Summer,2012,Summer,London,Archery,Archery Women's Individual,,0,752967.0,0.000106091,63.632,68.639,1823692110.0,2422.008016,2.43e-05

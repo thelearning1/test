@@ -1,0 +1,81 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+1625,1140,Ronald Jean-Martin Agnor,M,23.0,180.0,79.0,Haiti,HTI,1988 Summer,1988,Summer,Seoul,Tennis,Tennis Men's Singles,,0,6813348.0,0.001334459,73.671,53.881,,0,
+1626,1140,Ronald Jean-Martin Agnor,M,31.0,180.0,79.0,Haiti,HTI,1996 Summer,1996,Summer,Atlanta,Tennis,Tennis Men's Singles,,0,7965553.0,0.001375133,66.8,56.635,2907517543.0,365.0113863,9.2e-05
+8529,5958,Azea Augustama,M,25.0,180.0,81.0,Haiti,HTI,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Light-Heavyweight,,0,9705029.0,0.00143486,51.02,60.448,6548530572.0,674.7564146,0.000103126
+15883,10877,Andr Mike Berto,M,20.0,175.0,69.0,Haiti,HTI,2004 Summer,2004,Summer,Athina,Boxing,Boxing Men's Welterweight,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+23151,15864,Joel Brutus,M,29.0,183.0,133.5,Haiti,HTI,2004 Summer,2004,Summer,Athina,Judo,Judo Men's Heavyweight,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+23152,15864,Joel Brutus,M,33.0,183.0,133.5,Haiti,HTI,2008 Summer,2008,Summer,Beijing,Judo,Judo Men's Heavyweight,,0,9705029.0,0.00143486,51.02,60.448,6548530572.0,674.7564146,0.000103126
+27600,18922,Asnage Castelly,M,38.0,182.0,74.0,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Wrestling,"Wrestling Men's Middleweight, Freestyle",,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+28117,19296,Somoza Celestin,M,23.0,,,Haiti,HTI,1996 Summer,1996,Summer,Atlanta,Judo,Judo Men's Middleweight,,0,7965553.0,0.001375133,66.8,56.635,2907517543.0,365.0113863,9.2e-05
+28980,19897,Olmeus Charles,M,29.0,176.0,67.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,"Athletics Men's 10,000 metres",,0,5238245.0,0.001265536,79.569,49.485,,0,
+29012,19919,Maurice Charlotin,M,27.0,160.0,70.0,Haiti,HTI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's Marathon,,0,4876560.0,0.001270293,79.677,47.965,,0,
+32232,22020,Gerald Clervil,M,24.0,173.0,67.0,Haiti,HTI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 400 metres,,0,8549200.0,0.001397368,64.4,57.716,3953839594.0,462.4806525,0.000117674
+35711,24505,Wilfrid Cyriaque,M,25.0,173.0,70.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 400 metres,,0,5238245.0,0.001265536,79.569,49.485,,0,
+39901,27593,Dadi Denis,M,27.0,185.0,78.0,Haiti,HTI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 400 metres,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+40004,27681,Josue Deprez,M,34.0,,,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Lightweight,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+40231,27854,Linouse Desravine,F,21.0,160.0,52.0,Haiti,HTI,2012 Summer,2012,Summer,London,Judo,Judo Women's Half-Lightweight,,0,10289210.0,0.001449715,45.159,62.078,7890216508.0,766.8437623,0.000105343
+40268,27875,Jean-Marc Destine,M,23.0,184.0,73.0,Haiti,HTI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 800 metres,,0,7965553.0,0.001375133,66.8,56.635,2907517543.0,365.0113863,9.2e-05
+40458,28010,Thancule Dezart,M,29.0,172.0,66.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's Marathon,,0,5238245.0,0.001265536,79.569,49.485,,0,
+42773,29498,Dudley S. Dorival,M,25.0,185.0,77.0,Haiti,HTI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 110 metres Hurdles,,0,8549200.0,0.001397368,64.4,57.716,3953839594.0,462.4806525,0.000117674
+42774,29498,Dudley S. Dorival,M,28.0,185.0,77.0,Haiti,HTI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 110 metres Hurdles,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+42775,29498,Dudley S. Dorival,M,32.0,185.0,77.0,Haiti,HTI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 110 metres Hurdles,,0,9705029.0,0.00143486,51.02,60.448,6548530572.0,674.7564146,0.000103126
+42875,29555,Frantz Mike Itelord Dorsainvil,M,25.0,170.0,59.0,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+48431,33366,Ginou Etienne,F,23.0,173.0,58.0,Haiti,HTI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 400 metres,,0,9705029.0,0.00143486,51.02,60.448,6548530572.0,674.7564146,0.000103126
+48432,33367,Neyssa tienne,F,17.0,150.0,60.0,Haiti,HTI,2000 Summer,2000,Summer,Sydney,Tennis,Tennis Women's Singles,,0,8549200.0,0.001397368,64.4,57.716,3953839594.0,462.4806525,0.000117674
+48438,33369,Philippe tienne,M,26.0,168.0,72.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 100 metres,,0,5238245.0,0.001265536,79.569,49.485,,0,
+48439,33369,Philippe tienne,M,26.0,168.0,72.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 200 metres,,0,5238245.0,0.001265536,79.569,49.485,,0,
+49864,34290,Gina Faustin,F,24.0,,,Haiti,HTI,1984 Summer,1984,Summer,Los Angeles,Fencing,"Fencing Women's Foil, Individual",,0,6240329.0,0.001310998,77.703,52.279,,0,
+49865,34291,Jean-Max Faustin,M,21.0,176.0,71.0,Haiti,HTI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 400 metres,,0,4876560.0,0.001270293,79.677,47.965,,0,
+49866,34292,Nadine Faustin-Parker,F,24.0,163.0,59.0,Haiti,HTI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 100 metres Hurdles,,0,8549200.0,0.001397368,64.4,57.716,3953839594.0,462.4806525,0.000117674
+49867,34292,Nadine Faustin-Parker,F,28.0,163.0,59.0,Haiti,HTI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's 100 metres Hurdles,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+49868,34292,Nadine Faustin-Parker,F,32.0,163.0,59.0,Haiti,HTI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 100 metres Hurdles,,0,9705029.0,0.00143486,51.02,60.448,6548530572.0,674.7564146,0.000103126
+50267,34563,Wesly Felix,M,29.0,174.0,66.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Boxing,Boxing Men's Welterweight,,0,5238245.0,0.001265536,79.569,49.485,,0,
+55404,37868,Pierre-Richard Gaetjens,M,17.0,160.0,50.0,Haiti,HTI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 100 metres,,0,4876560.0,0.001270293,79.677,47.965,,0,
+57384,39106,Antoinette Gauthier,F,21.0,162.0,59.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Women's 100 metres,,0,5238245.0,0.001265536,79.569,49.485,,0,
+57392,39116,Rose-Marie Gauthier,F,21.0,162.0,59.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Women's 400 metres,,0,5238245.0,0.001265536,79.569,49.485,,0,
+58024,39576,Gary Georges,M,19.0,180.0,75.0,Haiti,HTI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 200 metres,,0,4876560.0,0.001270293,79.677,47.965,,0,
+62144,42358,Naomy Hope Grand'Pierre,F,19.0,,,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+71644,48857,Richardson Hitchins,M,18.0,,,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Boxing,Boxing Men's Light-Welterweight,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+72491,49456,Jean Alix Holmand,M,,,,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Half-Middleweight,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+79698,54100,Caleb Jean,M,18.0,,,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Half-Lightweight,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+79699,54101,Mulern Jean,F,23.0,,,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 100 metres Hurdles,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+79706,54103,Ange Mercie Jean Baptiste,F,23.0,160.0,57.0,Haiti,HTI,2008 Summer,2008,Summer,Beijing,Judo,Judo Women's Lightweight,,0,9705029.0,0.00143486,51.02,60.448,6548530572.0,674.7564146,0.000103126
+80561,54698,Yves Jeudy,M,18.0,165.0,60.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Boxing,Boxing Men's Lightweight,,0,5238245.0,0.001265536,79.569,49.485,,0,
+82299,55944,Anilus Joseph,M,27.0,180.0,70.0,Haiti,HTI,1972 Summer,1972,Summer,Munich,Athletics,"Athletics Men's 10,000 metres",,0,4876560.0,0.001270293,79.677,47.965,,0,
+82308,55948,douard Joseph,M,26.0,152.0,53.0,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Weightlifting,Weightlifting Men's Featherweight,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+82329,55962,Mireille Joseph,F,17.0,169.0,70.0,Haiti,HTI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Women's 100 metres,,0,4876560.0,0.001270293,79.677,47.965,,0,
+82330,55963,Moise Joseph,M,22.0,179.0,75.0,Haiti,HTI,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 800 metres,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+82331,55963,Moise Joseph,M,30.0,179.0,75.0,Haiti,HTI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 800 metres,,0,10289210.0,0.001449715,45.159,62.078,7890216508.0,766.8437623,0.000105343
+82338,55968,Rubens Joseph,M,23.0,,,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Lightweight,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+82342,55972,Wilnor Joseph,M,33.0,173.0,62.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Men's 800 metres,,0,5238245.0,0.001265536,79.569,49.485,,0,
+82721,56267,Jeffrey Michael Julmis,M,24.0,185.0,79.0,Haiti,HTI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 110 metres Hurdles,,0,10289210.0,0.001449715,45.159,62.078,7890216508.0,766.8437623,0.000105343
+82722,56267,Jeffrey Michael Julmis,M,28.0,185.0,79.0,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 110 metres Hurdles,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+98308,65901,Philome Laguerre,M,27.0,,89.0,Haiti,HTI,1960 Summer,1960,Summer,Roma,Weightlifting,Weightlifting Men's Middle-Heavyweight,,0,3866159.0,0.001274197,84.407,42.113,,0,
+98486,65997,Samyr Laine,M,28.0,188.0,82.0,Haiti,HTI,2012 Summer,2012,Summer,London,Athletics,Athletics Men's Triple Jump,,0,10289210.0,0.001449715,45.159,62.078,7890216508.0,766.8437623,0.000105343
+98795,66227,Dieudonn Michel Lamothe,M,21.0,175.0,65.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,"Athletics Men's 5,000 metres",,0,5238245.0,0.001265536,79.569,49.485,,0,
+98796,66227,Dieudonn Michel Lamothe,M,30.0,175.0,65.0,Haiti,HTI,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Marathon,,0,6240329.0,0.001310998,77.703,52.279,,0,
+98797,66227,Dieudonn Michel Lamothe,M,34.0,175.0,65.0,Haiti,HTI,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,,0,6813348.0,0.001334459,73.671,53.881,,0,
+98798,66227,Dieudonn Michel Lamothe,M,37.0,175.0,65.0,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+99376,66674,Ernst Laraque,M,29.0,178.0,73.0,Haiti,HTI,2000 Summer,2000,Summer,Sydney,Judo,Judo Men's Lightweight,,0,8549200.0,0.001397368,64.4,57.716,3953839594.0,462.4806525,0.000117674
+99377,66674,Ernst Laraque,M,33.0,178.0,73.0,Haiti,HTI,2004 Summer,2004,Summer,Athina,Judo,Judo Men's Lightweight,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+101916,68345,Parnel Legros,M,35.0,,,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Half-Heavyweight,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+107132,71676,Aniya Necol Louissaint,F,17.0,176.0,59.0,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Taekwondo,Taekwondo Women's Welterweight,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+112659,75378,Wagner Marseille,M,25.0,,,Haiti,HTI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 110 metres Hurdles,,0,7965553.0,0.001375133,66.8,56.635,2907517543.0,365.0113863,9.2e-05
+141796,94718,Barbara Pierre,F,21.0,,,Haiti,HTI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 100 metres,,0,9705029.0,0.00143486,51.02,60.448,6548530572.0,674.7564146,0.000103126
+141802,94721,Fritz Pierre,M,23.0,182.0,67.0,Haiti,HTI,1972 Summer,1972,Summer,Munich,Athletics,Athletics Men's 800 metres,,0,4876560.0,0.001270293,79.677,47.965,,0,
+141805,94724,Marie-Louise Pierre,F,20.0,160.0,60.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,Athletics Women's 200 metres,,0,5238245.0,0.001265536,79.569,49.485,,0,
+154144,102947,Claude G. Roumain,M,27.0,180.0,85.0,Haiti,HTI,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 100 metres,,0,6813348.0,0.001334459,73.671,53.881,,0,
+154145,102947,Claude G. Roumain,M,27.0,180.0,85.0,Haiti,HTI,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 200 metres,,0,6813348.0,0.001334459,73.671,53.881,,0,
+154146,102947,Claude G. Roumain,M,30.0,180.0,85.0,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 100 metres,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+154147,102947,Claude G. Roumain,M,30.0,180.0,85.0,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 200 metres,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+156437,104393,Deborah Saint Phard,F,23.0,180.0,110.0,Haiti,HTI,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's Shot Put,,0,6813348.0,0.001334459,73.671,53.881,,0,
+156439,104398,Emmanuel Saint-Hilaire,M,23.0,183.0,74.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Athletics,"Athletics Men's 1,500 metres",,0,5238245.0,0.001265536,79.569,49.485,,0,
+158170,105506,Tudor Sanon,M,20.0,182.0,80.0,Haiti,HTI,2004 Summer,2004,Summer,Athina,Taekwondo,Taekwondo Men's Heavyweight,,0,9119178.0,0.001416825,57.619,58.86,3537721020.0,387.9429725,8.08e-05
+162904,108824,Alain Sergile,M,24.0,,,Haiti,HTI,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming Men's 100 metres Butterfly,,0,7965553.0,0.001375133,66.8,56.635,2907517543.0,365.0113863,9.2e-05
+169894,113415,Hermate Souffrant,M,24.0,,,Haiti,HTI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Middleweight,,0,7386975.0,0.001353883,69.2,55.296,2257129874.0,305.5553693,8.89e-05
+174453,116384,Siergot Sully,M,25.0,171.0,63.0,Haiti,HTI,1976 Summer,1976,Summer,Montreal,Boxing,Boxing Men's Light-Welterweight,,0,5238245.0,0.001265536,79.569,49.485,,0,
+189496,126285,Sheila Viard (-Kernizan),F,24.0,,,Haiti,HTI,1984 Summer,1984,Summer,Los Angeles,Fencing,"Fencing Women's Foil, Individual",,0,6240329.0,0.001310998,77.703,52.279,,0,
+189935,126565,Anderson Vilien,M,24.0,,,Haiti,HTI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 200 metres,,0,7965553.0,0.001375133,66.8,56.635,2907517543.0,365.0113863,9.2e-05
+190941,127221,Adler Volmar,M,19.0,183.0,100.0,Haiti,HTI,1996 Summer,1996,Summer,Atlanta,Judo,Judo Men's Half-Middleweight,,0,7965553.0,0.001375133,66.8,56.635,2907517543.0,365.0113863,9.2e-05
+194484,129744,Darrell Wesh,M,24.0,183.0,73.0,Haiti,HTI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,,0,10847334.0,0.001457557,40.206,63.33,8022638722.0,739.5954363,0.00010584
+194485,129745,Marlena Hilari Wesh,F,21.0,167.0,,Haiti,HTI,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 400 metres,,0,10289210.0,0.001449715,45.159,62.078,7890216508.0,766.8437623,0.000105343

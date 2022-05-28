@@ -1,0 +1,39 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+17212,11818,Davy Rolando Bisslik,M,18.0,176.0,72.0,Aruba,ABW,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Men's 50 metres Freestyle,,0,90853.0,1.48e-05,53.283,73.787,1873452514.0,20620.70063,5.58e-05
+17213,11818,Davy Rolando Bisslik,M,22.0,176.0,72.0,Aruba,ABW,2004 Summer,2004,Summer,Athina,Swimming,Swimming Men's 100 metres Butterfly,,0,98737.0,1.53e-05,54.76,74.156,2228279330.0,22567.82493,5.09e-05
+38702,26789,"Pierre Eric Omar ""Peppie"" de Windt",M,21.0,185.0,83.0,Aruba,ABW,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 100 metres,,0,98737.0,1.53e-05,54.76,74.156,2228279330.0,22567.82493,5.09e-05
+41607,28742,Lucien Pedro Lodevicus Dirksz,M,23.0,170.0,73.0,Aruba,ABW,1992 Summer,1992,Summer,Barcelona,Cycling,"Cycling Men's Road Race, Individual",,0,68235.0,1.25e-05,50.002,73.544,,0,
+41608,28742,Lucien Pedro Lodevicus Dirksz,M,27.0,170.0,73.0,Aruba,ABW,1996 Summer,1996,Summer,Atlanta,Cycling,"Cycling Men's Road Race, Individual",,0,83200.0,1.44e-05,51.644,73.646,1379888268.0,16585.19553,4.37e-05
+49599,34119,"Isnardo Enrike ""Junior"" Faro",M,18.0,171.0,85.0,Aruba,ABW,1996 Summer,1996,Summer,Atlanta,Weightlifting,Weightlifting Men's Middleweight,,0,83200.0,1.44e-05,51.644,73.646,1379888268.0,16585.19553,4.37e-05
+49600,34119,"Isnardo Enrike ""Junior"" Faro",M,26.0,171.0,85.0,Aruba,ABW,2004 Summer,2004,Summer,Athina,Weightlifting,Weightlifting Men's Middle-Heavyweight,,0,98737.0,1.53e-05,54.76,74.156,2228279330.0,22567.82493,5.09e-05
+49618,34137,Evelyn Farrell,F,28.0,165.0,61.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's 100 metres,,0,61079.0,1.2e-05,49.65,73.378,,0,
+49619,34137,Evelyn Farrell,F,28.0,165.0,61.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's 200 metres,,0,61079.0,1.2e-05,49.65,73.378,,0,
+57739,39328,Luz Marina Virginia Geerman,F,16.0,158.0,50.0,Aruba,ABW,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 100 metres,,0,90853.0,1.48e-05,53.283,73.787,1873452514.0,20620.70063,5.58e-05
+70027,47723,Carl Henriquez,M,32.0,178.0,150.0,Aruba,ABW,2012 Summer,2012,Summer,London,Weightlifting,Weightlifting Men's Super-Heavyweight,,0,102577.0,1.45e-05,57.636,75.299,,0,
+79213,53804,Miguel Janssen,M,25.0,185.0,80.0,Aruba,ABW,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 200 metres,,0,83200.0,1.44e-05,51.644,73.646,1379888268.0,16585.19553,4.37e-05
+100513,67512,Jemal E. le Grand,M,18.0,177.0,70.0,Aruba,ABW,2012 Summer,2012,Summer,London,Swimming,Swimming Men's 100 metres Freestyle,,0,102577.0,1.45e-05,57.636,75.299,,0,
+106801,71459,Roswitha Lopez,F,18.0,165.0,58.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,,0,61079.0,1.2e-05,49.65,73.378,,0,
+106802,71459,Roswitha Lopez,F,18.0,165.0,58.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,,0,61079.0,1.2e-05,49.65,73.378,,0,
+109396,73283,"Victor ""Bito"" Maduro",M,24.0,175.0,86.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Judo,Judo Men's Middleweight,,0,61079.0,1.2e-05,49.65,73.378,,0,
+113987,76323,Jayme Mata,M,29.0,172.0,67.0,Aruba,ABW,2012 Summer,2012,Summer,London,Judo,Judo Men's Half-Lightweight,,0,102577.0,1.45e-05,57.636,75.299,,0,
+113988,76323,Jayme Mata,M,33.0,172.0,67.0,Aruba,ABW,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,,0,104822.0,1.41e-05,58.696,75.867,,0,
+117064,78452,"Cornelia Marina ""Lia"" Melis",F,28.0,162.0,56.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's Marathon,,0,61079.0,1.2e-05,49.65,73.378,,0,
+117065,78452,"Cornelia Marina ""Lia"" Melis",F,32.0,162.0,56.0,Aruba,ABW,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Women's Marathon,,0,68235.0,1.25e-05,50.002,73.544,,0,
+127183,85006,Jeffrey Reginald Nedd,M,31.0,184.0,87.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Heavyweight,,0,61079.0,1.2e-05,49.65,73.378,,0,
+142078,94911,Monica Fiorella Pimentel Rodriguez,F,27.0,171.0,49.0,Aruba,ABW,2016 Summer,2016,Summer,Rio de Janeiro,Taekwondo,Taekwondo Women's Flyweight,,0,104822.0,1.41e-05,58.696,75.867,,0,
+143880,96058,Allyson Ponson,F,20.0,165.0,60.0,Aruba,ABW,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 50 metres Freestyle,,0,104822.0,1.41e-05,58.696,75.867,,0,
+150109,100251,"Kimball Peter ""Kim"" Reynierse",M,31.0,175.0,65.0,Aruba,ABW,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,,0,68235.0,1.25e-05,50.002,73.544,,0,
+152533,101848,Richard Rodriguez,M,30.0,173.0,64.0,Aruba,ABW,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,,0,90853.0,1.48e-05,53.283,73.787,1873452514.0,20620.70063,5.58e-05
+153470,102430,Jan Roodzant,M,24.0,191.0,80.0,Aruba,ABW,2008 Summer,2008,Summer,Beijing,Swimming,Swimming Men's 100 metres Freestyle,,0,101353.0,1.5e-05,56.217,74.725,2791960894.0,27546.89939,4.4e-05
+161043,107519,Mikel Schreuders,M,17.0,189.0,90.0,Aruba,ABW,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 200 metres Freestyle,,0,104822.0,1.41e-05,58.696,75.867,,0,
+179631,119766,Austin Thomas,M,49.0,186.0,85.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Fencing,"Fencing Men's Foil, Individual",,0,61079.0,1.2e-05,49.65,73.378,,0,
+179632,119766,Austin Thomas,M,49.0,186.0,85.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Fencing,"Fencing Men's epee, Individual",,0,61079.0,1.2e-05,49.65,73.378,,0,
+180203,120137,Yvette Thuis,F,17.0,167.0,58.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Synchronized Swimming,Synchronized Swimming Women's Solo,,0,61079.0,1.2e-05,49.65,73.378,,0,
+180204,120137,Yvette Thuis,F,17.0,167.0,58.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Synchronized Swimming,Synchronized Swimming Women's Duet,,0,61079.0,1.2e-05,49.65,73.378,,0,
+186771,124290,Daniella van den Berg,F,16.0,165.0,61.0,Aruba,ABW,2012 Summer,2012,Summer,London,Swimming,Swimming Women's 800 metres Freestyle,,0,102577.0,1.45e-05,57.636,75.299,,0,
+187571,124970,Gerard Leendert van Vliet,M,28.0,178.0,75.0,Aruba,ABW,1992 Summer,1992,Summer,Barcelona,Cycling,"Cycling Men's Road Race, Individual",,0,68235.0,1.25e-05,50.002,73.544,,0,
+190259,126803,Fiderd Vis,M,27.0,182.0,81.0,Aruba,ABW,2008 Summer,2008,Summer,Beijing,Judo,Judo Men's Half-Middleweight,,0,101353.0,1.5e-05,56.217,74.725,2791960894.0,27546.89939,4.4e-05
+191502,127645,Roshendra Julienne Mercedes Vrolijk,F,15.0,171.0,56.0,Aruba,ABW,2000 Summer,2000,Summer,Sydney,Swimming,Swimming Women's 50 metres Freestyle,,0,90853.0,1.48e-05,53.283,73.787,1873452514.0,20620.70063,5.58e-05
+191503,127645,Roshendra Julienne Mercedes Vrolijk,F,19.0,171.0,56.0,Aruba,ABW,2004 Summer,2004,Summer,Athina,Swimming,Swimming Women's 50 metres Freestyle,,0,98737.0,1.53e-05,54.76,74.156,2228279330.0,22567.82493,5.09e-05
+192971,128659,Javier Wanga,M,19.0,173.0,66.0,Aruba,ABW,2000 Summer,2000,Summer,Sydney,Judo,Judo Men's Half-Lightweight,,0,90853.0,1.48e-05,53.283,73.787,1873452514.0,20620.70063,5.58e-05
+194552,129803,Hubert Wester,M,27.0,165.0,65.0,Aruba,ABW,1988 Summer,1988,Summer,Seoul,Boxing,Boxing Men's Light-Welterweight,,0,61079.0,1.2e-05,49.65,73.378,,0,

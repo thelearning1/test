@@ -1,0 +1,57 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+12238,8475,Gina Bass,F,21.0,,,Gambia,GMB,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Women's 200 metres,,0,2038501.0,0.000273913,39.776,61.193,964599178.1,473.1904366,1.27e-05
+28094,19275,Paul Ceesay,M,25.0,185.0,70.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,"Athletics Men's 1,500 metres",,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+28095,19276,Peter Ceesay,M,25.0,183.0,71.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 800 metres,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+32782,22421,Saruba Colley,F,23.0,145.0,56.0,Gambia,GMB,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 100 metres,,0,1802125.0,0.000253913,42.294,60.187,910026287.3,504.9740097,1.21e-05
+36548,25078,Adama Damballey,M,,,74.0,Gambia,GMB,1988 Summer,1988,Summer,Seoul,Wrestling,"Wrestling Men's Welterweight, Freestyle",,0,843050.0,0.000165119,63.845,51.476,266673126.2,316.3194665,1.4e-05
+38892,26914,Victoria Decka,F,,145.0,,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+43451,29920,Lamin Drammeh,M,17.0,,,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+43452,29921,Momodou Lamin Drammeh,M,17.0,,,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+54039,36979,Georgiana Freeman,F,28.0,167.0,44.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+55239,37741,Sheikh Oumar Fye,M,24.0,183.0,80.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 100 metres,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+55240,37741,Sheikh Oumar Fye,M,24.0,183.0,80.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 200 metres,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+55241,37741,Sheikh Oumar Fye,M,24.0,183.0,80.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+55477,37909,Pa Mamadou Gai,M,18.0,167.0,61.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 100 metres,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+55478,37909,Pa Mamadou Gai,M,18.0,167.0,61.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+55479,37909,Pa Mamadou Gai,M,22.0,167.0,61.0,Gambia,GMB,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's 100 metres,,0,1231844.0,0.000201345,52.132,55.924,782915402.4,635.5637584,2.33e-05
+78080,53067,Badou Jack,M,24.0,,75.0,Gambia,GMB,2008 Summer,2008,Summer,Beijing,Boxing,Boxing Men's Middleweight,,0,1588572.0,0.000234866,45.211,58.991,965769127.1,607.9479728,1.52e-05
+78666,53448,Abdurahman Jallow,M,,180.0,70.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+78667,53449,Dawda Jallow,M,17.0,180.0,70.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 400 metres,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+78668,53449,Dawda Jallow,M,17.0,180.0,70.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+78669,53449,Dawda Jallow,M,21.0,180.0,70.0,Gambia,GMB,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 400 metres,,0,843050.0,0.000165119,63.845,51.476,266673126.2,316.3194665,1.4e-05
+78670,53449,Dawda Jallow,M,25.0,180.0,70.0,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+78671,53449,Dawda Jallow,M,29.0,180.0,70.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 400 metres,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+78672,53449,Dawda Jallow,M,29.0,180.0,70.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+78673,53449,Dawda Jallow,M,29.0,180.0,70.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+78801,53543,Adama Jammeh,M,23.0,,,Gambia,GMB,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 200 metres,,0,2038501.0,0.000273913,39.776,61.193,964599178.1,473.1904366,1.27e-05
+79094,53722,Abdulieh Janneh,M,22.0,167.0,50.0,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 100 metres,,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+79095,53722,Abdulieh Janneh,M,22.0,167.0,50.0,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+79373,53908,Matarr Jarju,M,,,68.0,Gambia,GMB,1988 Summer,1988,Summer,Seoul,Wrestling,"Wrestling Men's Middleweight, Freestyle",,0,843050.0,0.000165119,63.845,51.476,266673126.2,316.3194665,1.4e-05
+79374,53909,Bakary Banana Jarjue,M,35.0,170.0,68.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 100 metres,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+79375,53909,Bakary Banana Jarjue,M,35.0,170.0,68.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+79643,54067,Jabou Jawo,F,22.0,155.0,55.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 100 metres,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+79644,54067,Jabou Jawo,F,22.0,155.0,55.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+79645,54067,Jabou Jawo,F,26.0,155.0,55.0,Gambia,GMB,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Women's 100 metres,,0,843050.0,0.000165119,63.845,51.476,266673126.2,316.3194665,1.4e-05
+81387,55290,Assan John,M,18.0,,,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 400 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+82043,55776,Pap D. Jonga,M,19.0,,,Gambia,GMB,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,,0,2038501.0,0.000273913,39.776,61.193,964599178.1,473.1904366,1.27e-05
+112121,75039,Lamine Marikong,M,22.0,,,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 200 metres,,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+112122,75039,Lamine Marikong,M,22.0,,,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 400 metres,,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+112123,75039,Lamine Marikong,M,22.0,,,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+127009,84907,Amie N'Dow,F,26.0,158.0,53.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 200 metres,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+127010,84907,Amie N'Dow,F,26.0,158.0,53.0,Gambia,GMB,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Women's 4 x 100 metres Relay,,0,701104.0,0.000147291,67.993,49.308,177338801.9,252.9422196,1.47e-05
+129605,86608,Adama N'Jie,F,18.0,163.0,50.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Women's 800 metres,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+129606,86608,Adama N'Jie,F,22.0,163.0,50.0,Gambia,GMB,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 800 metres,,0,1231844.0,0.000201345,52.132,55.924,782915402.4,635.5637584,2.33e-05
+129607,86608,Adama N'Jie,F,26.0,163.0,50.0,Gambia,GMB,2004 Summer,2004,Summer,Athina,Athletics,Athletics Women's 800 metres,,0,1398573.0,0.000217293,48.521,57.527,578785279.4,413.8398778,1.32e-05
+129608,86609,Momodou Bello N'Jie,M,18.0,176.0,70.0,Gambia,GMB,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's 800 metres,,0,843050.0,0.000165119,63.845,51.476,266673126.2,316.3194665,1.4e-05
+129609,86609,Momodou Bello N'Jie,M,22.0,176.0,70.0,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 1,500 metres",,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+129628,86614,Faye Njie,M,22.0,,,Gambia,GMB,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Lightweight,,0,2038501.0,0.000273913,39.776,61.193,964599178.1,473.1904366,1.27e-05
+156379,104360,Jaysuma Saidy Ndure,M,20.0,191.0,73.0,Gambia,GMB,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 100 metres,,0,1398573.0,0.000217293,48.521,57.527,578785279.4,413.8398778,1.32e-05
+156380,104360,Jaysuma Saidy Ndure,M,20.0,191.0,73.0,Gambia,GMB,2004 Summer,2004,Summer,Athina,Athletics,Athletics Men's 200 metres,,0,1398573.0,0.000217293,48.521,57.527,578785279.4,413.8398778,1.32e-05
+156980,104771,Ousman Omar Sallah,M,28.0,,,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Long Jump,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+158132,105488,Bakary Sanneh,M,29.0,,82.0,Gambia,GMB,1988 Summer,1988,Summer,Seoul,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",,0,843050.0,0.000165119,63.845,51.476,266673126.2,316.3194665,1.4e-05
+158133,105489,Su Wai'bou Sanneh,M,17.0,167.0,80.0,Gambia,GMB,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Men's 100 metres,,0,1588572.0,0.000234866,45.211,58.991,965769127.1,607.9479728,1.52e-05
+158134,105489,Su Wai'bou Sanneh,M,21.0,167.0,80.0,Gambia,GMB,2012 Summer,2012,Summer,London,Athletics,Athletics Men's 100 metres,,0,1802125.0,0.000253913,42.294,60.187,910026287.3,504.9740097,1.21e-05
+158673,105846,Momodou Sarr,M,32.0,165.0,70.0,Gambia,GMB,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's 4 x 100 metres Relay,,0,979718.0,0.000179562,59.48,52.786,714255460.5,729.0418881,2.81e-05
+158674,105846,Momodou Sarr,M,36.0,165.0,70.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+170069,113524,Cherno Sowe,M,17.0,165.0,52.0,Gambia,GMB,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's 4 x 100 metres Relay,,0,1096708.0,0.00018933,55.742,54.254,848237108.6,773.4393372,2.68e-05
+180883,120564,Fatou Tiyana,F,23.0,,,Gambia,GMB,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 100 metres,,0,1588572.0,0.000234866,45.211,58.991,965769127.1,607.9479728,1.52e-05

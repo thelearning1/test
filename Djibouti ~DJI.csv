@@ -1,0 +1,35 @@
+Index,ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal,Host,Nat_Pop,Global_Pop%,Rural_Pop%,Life_Expect,GDP,GDP_Per_Cap,Global_GDP%
+336,254,Talal Omar Abdillahi,M,21.0,170.0,57.0,Djibouti,DJI,1988 Summer,1988,Summer,Seoul,Athletics,"Athletics Men's 10,000 metres",,0,528999.0,0.000103609,24.452,56.271,395794538.6,748.1952491,2.07e-05
+337,254,Talal Omar Abdillahi,M,25.0,170.0,57.0,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,,0,615054.0,0.000112727,23.839,56.943,478058304.9,777.2623296,1.88e-05
+830,578,Bourhan Abro,M,21.0,180.0,70.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Men's 50 metres Freestyle,,0,942333.0,0.000126621,22.57,62.465,,0,
+1315,919,Hoche Yaya Aden,M,21.0,180.0,47.0,Djibouti,DJI,1988 Summer,1988,Summer,Seoul,Athletics,"Athletics Men's 1,500 metres",,0,528999.0,0.000103609,24.452,56.271,395794538.6,748.1952491,2.07e-05
+3882,2707,Zourah Mohamed Ali,F,17.0,162.0,53.0,Djibouti,DJI,2012 Summer,2012,Summer,London,Athletics,Athletics Women's 400 metres,,0,881185.0,0.000124156,22.883,61.31,1353632942.0,1536.150686,1.81e-05
+3886,2711,Fathia Ali Bouraleh,F,20.0,,,Djibouti,DJI,2008 Summer,2008,Summer,Beijing,Athletics,Athletics Women's 100 metres,,0,822934.0,0.000121668,23.101,59.345,999105339.3,1214.077118,1.57e-05
+3895,2720,Roda Ali Wais,F,16.0,158.0,52.0,Djibouti,DJI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Women's 800 metres,,0,717584.0,0.000117289,23.468,57.021,551230861.9,768.1760768,1.64e-05
+29022,19925,Omar Abdillahi Charmarke Cochine,M,,178.0,60.0,Djibouti,DJI,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Marathon,,0,406017.0,8.53e-05,25.285,55.174,,0,
+41797,28852,Houssein Djama Egueh,M,24.0,180.0,60.0,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 1,500 metres",,0,615054.0,0.000112727,23.839,56.943,478058304.9,777.2623296,1.88e-05
+49406,34011,Mahamoud Farah,M,19.0,,,Djibouti,DJI,2008 Summer,2008,Summer,Beijing,Athletics,"Athletics Men's 1,500 metres",,0,822934.0,0.000121668,23.101,59.345,999105339.3,1214.077118,1.57e-05
+49414,34015,Yasmin Farah Hassan,F,18.0,,,Djibouti,DJI,2012 Summer,2012,Summer,London,Table Tennis,Table Tennis Women's Singles,,0,881185.0,0.000124156,22.883,61.31,1353632942.0,1536.150686,1.81e-05
+55383,37850,Omar Daher Gadid,M,26.0,170.0,58.0,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 10,000 metres",,0,615054.0,0.000112727,23.839,56.943,478058304.9,777.2623296,1.88e-05
+55384,37850,Omar Daher Gadid,M,34.0,170.0,58.0,Djibouti,DJI,2000 Summer,2000,Summer,Sydney,Athletics,Athletics Men's Marathon,,0,717584.0,0.000117289,23.468,57.021,551230861.9,768.1760768,1.64e-05
+55653,37987,Mumin Booqora Gala,M,25.0,185.0,70.0,Djibouti,DJI,2012 Summer,2012,Summer,London,Athletics,"Athletics Men's 5,000 metres",,0,881185.0,0.000124156,22.883,61.31,1353632942.0,1536.150686,1.81e-05
+55654,37987,Mumin Booqora Gala,M,29.0,185.0,70.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's Marathon,,0,942333.0,0.000126621,22.57,62.465,,0,
+68243,46484,Ali Ismael Hassan,M,21.0,157.0,42.0,Djibouti,DJI,1988 Summer,1988,Summer,Seoul,Athletics,"Athletics Men's 5,000 metres",,0,528999.0,0.000103609,24.452,56.271,395794538.6,748.1952491,2.07e-05
+73627,50266,Fuad Anass Houssein,M,21.0,175.0,66.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Judo,Judo Men's Half-Lightweight,,0,942333.0,0.000126621,22.57,62.465,,0,
+75630,51549,Ali Foulieh Ibrahim,M,25.0,180.0,64.0,Djibouti,DJI,1996 Summer,1996,Summer,Atlanta,Athletics,"Athletics Men's 1,500 metres",,0,643682.0,0.000111122,23.653,57.05,494004647.7,767.4669289,1.56e-05
+77026,52413,Youssef Omar Isahak,M,22.0,,,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Extra-Lightweight,,0,615054.0,0.000112727,23.839,56.943,478058304.9,777.2623296,1.88e-05
+77307,52592,Mohamed Ismail Ibrahim,M,19.0,170.0,63.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 3,000 metres Steeplechase",,0,942333.0,0.000126621,22.57,62.465,,0,
+120940,80909,Kadra Mohamed Dembil,F,19.0,155.0,55.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Women's 1,500 metres",,0,942333.0,0.000126621,22.57,62.465,,0,
+123413,82578,Abdi Waiss Mouhyadin,M,20.0,160.0,60.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",,0,942333.0,0.000126621,22.57,62.465,,0,
+123493,82646,Omar Moussa Bouh,M,27.0,163.0,53.0,Djibouti,DJI,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,,0,528999.0,0.000103609,24.452,56.271,395794538.6,748.1952491,2.07e-05
+123494,82646,Omar Moussa Bouh,M,35.0,163.0,53.0,Djibouti,DJI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,,0,643682.0,0.000111122,23.653,57.05,494004647.7,767.4669289,1.56e-05
+134311,89771,Abdourahman Osman,M,18.0,,,Djibouti,DJI,2012 Summer,2012,Summer,London,Swimming,Swimming Men's 50 metres Freestyle,,0,881185.0,0.000124156,22.883,61.31,1353632942.0,1536.150686,1.81e-05
+151933,101482,Djama Robleh,M,25.0,169.0,52.0,Djibouti,DJI,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Marathon,,0,406017.0,8.53e-05,25.285,55.174,,0,
+156769,104592,Ahmed Salah Houssein,M,27.0,180.0,64.0,Djibouti,DJI,1984 Summer,1984,Summer,Los Angeles,Athletics,Athletics Men's Marathon,,0,406017.0,8.53e-05,25.285,55.174,,0,
+156770,104592,Ahmed Salah Houssein,M,31.0,180.0,64.0,Djibouti,DJI,1988 Summer,1988,Summer,Seoul,Athletics,Athletics Men's Marathon,Bronze,0,528999.0,0.000103609,24.452,56.271,395794538.6,748.1952491,2.07e-05
+156771,104592,Ahmed Salah Houssein,M,35.0,180.0,64.0,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Athletics,Athletics Men's Marathon,,0,615054.0,0.000112727,23.839,56.943,478058304.9,777.2623296,1.88e-05
+156772,104592,Ahmed Salah Houssein,M,39.0,180.0,64.0,Djibouti,DJI,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics Men's Marathon,,0,643682.0,0.000111122,23.653,57.05,494004647.7,767.4669289,1.56e-05
+169928,113429,Hassan Ayanleh Souleiman,M,23.0,190.0,55.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 800 metres,,0,942333.0,0.000126621,22.57,62.465,,0,
+169929,113429,Hassan Ayanleh Souleiman,M,23.0,190.0,55.0,Djibouti,DJI,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,"Athletics Men's 1,500 metres",,0,942333.0,0.000126621,22.57,62.465,,0,
+169930,113430,Moussa Awaleh Souleiman,M,,174.0,50.0,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Athletics,"Athletics Men's 5,000 metres",,0,615054.0,0.000112727,23.839,56.943,478058304.9,777.2623296,1.88e-05
+176664,117809,Alaoui Mohamed Taher,M,21.0,,,Djibouti,DJI,1992 Summer,1992,Summer,Barcelona,Judo,Judo Men's Lightweight,,0,615054.0,0.000112727,23.839,56.943,478058304.9,777.2623296,1.88e-05
