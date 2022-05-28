@@ -1,0 +1,1318 @@
+{
+    "CHN": [
+        {
+            "Country": "China ~CHN",
+            "NOC": "CHN"
+        },
+        {
+            "Country": "Chinese Taipei ~CHN",
+            "NOC": "CHN"
+        }
+    ],
+    "FIN": [
+        {
+            "Country": "Finland ~FIN",
+            "NOC": "FIN"
+        }
+    ],
+    "NOR": [
+        {
+            "Country": "Norway ~NOR",
+            "NOC": "NOR"
+        }
+    ],
+    "ROU": [
+        {
+            "Country": "Romania ~ROU",
+            "NOC": "ROU"
+        }
+    ],
+    "NLD": [
+        {
+            "Country": "Netherlands ~NLD",
+            "NOC": "NLD"
+        }
+    ],
+    "FRA": [
+        {
+            "Country": "France ~FRA",
+            "NOC": "FRA"
+        }
+    ],
+    "MAR": [
+        {
+            "Country": "Morocco ~MAR",
+            "NOC": "MAR"
+        }
+    ],
+    "EST": [
+        {
+            "Country": "Estonia ~EST",
+            "NOC": "EST"
+        }
+    ],
+    "ESP": [
+        {
+            "Country": "Spain ~ESP",
+            "NOC": "ESP"
+        }
+    ],
+    "EGY": [
+        {
+            "Country": "Egypt ~EGY",
+            "NOC": "EGY"
+        }
+    ],
+    "BGR": [
+        {
+            "Country": "Bulgaria ~BGR",
+            "NOC": "BGR"
+        }
+    ],
+    "ITA": [
+        {
+            "Country": "Italy ~ITA",
+            "NOC": "ITA"
+        }
+    ],
+    "TCD": [
+        {
+            "Country": "Chad ~TCD",
+            "NOC": "TCD"
+        }
+    ],
+    "AZE": [
+        {
+            "Country": "Azerbaijan ~AZE",
+            "NOC": "AZE"
+        }
+    ],
+    "SDN": [
+        {
+            "Country": "Sudan ~SDN",
+            "NOC": "SDN"
+        }
+    ],
+    "RUS": [
+        {
+            "Country": "Russia ~RUS",
+            "NOC": "RUS"
+        }
+    ],
+    "ARG": [
+        {
+            "Country": "Argentina ~ARG",
+            "NOC": "ARG"
+        }
+    ],
+    "CUB": [
+        {
+            "Country": "Cuba ~CUB",
+            "NOC": "CUB"
+        }
+    ],
+    "BLR": [
+        {
+            "Country": "Belarus ~BLR",
+            "NOC": "BLR"
+        }
+    ],
+    "GRC": [
+        {
+            "Country": "Greece ~GRC",
+            "NOC": "GRC"
+        }
+    ],
+    "CMR": [
+        {
+            "Country": "Cameroon ~CMR",
+            "NOC": "CMR"
+        }
+    ],
+    "TUR": [
+        {
+            "Country": "Turkey ~TUR",
+            "NOC": "TUR"
+        }
+    ],
+    "MEX": [
+        {
+            "Country": "Mexico ~MEX",
+            "NOC": "MEX"
+        }
+    ],
+    "CHL": [
+        {
+            "Country": "Chile ~CHL",
+            "NOC": "CHL"
+        }
+    ],
+    "USA": [
+        {
+            "Country": "United States ~USA",
+            "NOC": "USA"
+        }
+    ],
+    "URS": [
+        {
+            "Country": "Soviet Union ~URS",
+            "NOC": "URS"
+        }
+    ],
+    "NIC": [
+        {
+            "Country": "Nicaragua ~NIC",
+            "NOC": "NIC"
+        }
+    ],
+    "HUN": [
+        {
+            "Country": "Hungary ~HUN",
+            "NOC": "HUN"
+        }
+    ],
+    "NGA": [
+        {
+            "Country": "Nigeria ~NGA",
+            "NOC": "NGA"
+        }
+    ],
+    "DZA": [
+        {
+            "Country": "Algeria ~DZA",
+            "NOC": "DZA"
+        }
+    ],
+    "KWT": [
+        {
+            "Country": "Kuwait ~KWT",
+            "NOC": "KWT"
+        }
+    ],
+    "BHR": [
+        {
+            "Country": "Bahrain ~BHR",
+            "NOC": "BHR"
+        }
+    ],
+    "PAK": [
+        {
+            "Country": "Pakistan ~PAK",
+            "NOC": "PAK"
+        }
+    ],
+    "IRQ": [
+        {
+            "Country": "Iraq ~IRQ",
+            "NOC": "IRQ"
+        }
+    ],
+    "UAR": [
+        {
+            "Country": "United Arab Republic ~UAR",
+            "NOC": "UAR"
+        }
+    ],
+    "LBN": [
+        {
+            "Country": "Lebanon ~LBN",
+            "NOC": "LBN"
+        }
+    ],
+    "QAT": [
+        {
+            "Country": "Qatar ~QAT",
+            "NOC": "QAT"
+        }
+    ],
+    "MYS": [
+        {
+            "Country": "Malaysia ~MYS",
+            "NOC": "MYS"
+        },
+        {
+            "Country": "Malaya ~MYS",
+            "NOC": "MYS"
+        }
+    ],
+    "IRN": [
+        {
+            "Country": "Iran ~IRN",
+            "NOC": "IRN"
+        }
+    ],
+    "AUS": [
+        {
+            "Country": "Australia ~AUS",
+            "NOC": "AUS"
+        }
+    ],
+    "ZAF": [
+        {
+            "Country": "South Africa ~ZAF",
+            "NOC": "ZAF"
+        }
+    ],
+    "CAN": [
+        {
+            "Country": "Canada ~CAN",
+            "NOC": "CAN"
+        }
+    ],
+    "ERI": [
+        {
+            "Country": "Eritrea ~ERI",
+            "NOC": "ERI"
+        }
+    ],
+    "TZA": [
+        {
+            "Country": "Tanzania ~TZA",
+            "NOC": "TZA"
+        }
+    ],
+    "JOR": [
+        {
+            "Country": "Jordan ~JOR",
+            "NOC": "JOR"
+        }
+    ],
+    "TUN": [
+        {
+            "Country": "Tunisia ~TUN",
+            "NOC": "TUN"
+        }
+    ],
+    "LBY": [
+        {
+            "Country": "Libya ~LBY",
+            "NOC": "LBY"
+        }
+    ],
+    "BEL": [
+        {
+            "Country": "Belgium ~BEL",
+            "NOC": "BEL"
+        }
+    ],
+    "DJI": [
+        {
+            "Country": "Djibouti ~DJI",
+            "NOC": "DJI"
+        }
+    ],
+    "PLE": [
+        {
+            "Country": "Palestine ~PLE",
+            "NOC": "PLE"
+        }
+    ],
+    "COM": [
+        {
+            "Country": "Comoros ~COM",
+            "NOC": "COM"
+        }
+    ],
+    "KAZ": [
+        {
+            "Country": "Kazakhstan ~KAZ",
+            "NOC": "KAZ"
+        }
+    ],
+    "BRN": [
+        {
+            "Country": "Brunei ~BRN",
+            "NOC": "BRN"
+        }
+    ],
+    "SAU": [
+        {
+            "Country": "Saudi Arabia ~SAU",
+            "NOC": "SAU"
+        }
+    ],
+    "SYR": [
+        {
+            "Country": "Syria ~SYR",
+            "NOC": "SYR"
+        }
+    ],
+    "MDV": [
+        {
+            "Country": "Maldives ~MDV",
+            "NOC": "MDV"
+        }
+    ],
+    "ETH": [
+        {
+            "Country": "Ethiopia ~ETH",
+            "NOC": "ETH"
+        }
+    ],
+    "ARE": [
+        {
+            "Country": "United Arab Emirates ~ARE",
+            "NOC": "ARE"
+        }
+    ],
+    "YEM": [
+        {
+            "Country": "North Yemen ~YEM",
+            "NOC": "YEM"
+        },
+        {
+            "Country": "South Yemen ~YEM",
+            "NOC": "YEM"
+        },
+        {
+            "Country": "Yemen ~YEM",
+            "NOC": "YEM"
+        }
+    ],
+    "IDN": [
+        {
+            "Country": "Indonesia ~IDN",
+            "NOC": "IDN"
+        }
+    ],
+    "PHL": [
+        {
+            "Country": "Philippines ~PHL",
+            "NOC": "PHL"
+        }
+    ],
+    "SGP": [
+        {
+            "Country": "Singapore ~SGP",
+            "NOC": "SGP"
+        }
+    ],
+    "UZB": [
+        {
+            "Country": "Uzbekistan ~UZB",
+            "NOC": "UZB"
+        }
+    ],
+    "KGZ": [
+        {
+            "Country": "Kyrgyzstan ~KGZ",
+            "NOC": "KGZ"
+        }
+    ],
+    "TJK": [
+        {
+            "Country": "Tajikistan ~TJK",
+            "NOC": "TJK"
+        }
+    ],
+    "EUN": [
+        {
+            "Country": "Unified Team ~EUN",
+            "NOC": "EUN"
+        }
+    ],
+    "JPN": [
+        {
+            "Country": "Japan ~JPN",
+            "NOC": "JPN"
+        }
+    ],
+    "COG": [
+        {
+            "Country": "Congo (Brazzaville) ~COG",
+            "NOC": "COG"
+        }
+    ],
+    "BRA": [
+        {
+            "Country": "Brazil ~BRA",
+            "NOC": "BRA"
+        }
+    ],
+    "GDR": [
+        {
+            "Country": "East Germany ~GDR",
+            "NOC": "GDR"
+        }
+    ],
+    "DEU": [
+        {
+            "Country": "Germany ~DEU",
+            "NOC": "DEU"
+        }
+    ],
+    "ISR": [
+        {
+            "Country": "Israel ~ISR",
+            "NOC": "ISR"
+        }
+    ],
+    "SWE": [
+        {
+            "Country": "Sweden ~SWE",
+            "NOC": "SWE"
+        }
+    ],
+    "LKA": [
+        {
+            "Country": "Sri Lanka ~LKA",
+            "NOC": "LKA"
+        }
+    ],
+    "ARM": [
+        {
+            "Country": "Armenia ~ARM",
+            "NOC": "ARM"
+        }
+    ],
+    "CIV": [
+        {
+            "Country": "Cote d'Ivoire ~CIV",
+            "NOC": "CIV"
+        }
+    ],
+    "KEN": [
+        {
+            "Country": "Kenya ~KEN",
+            "NOC": "KEN"
+        }
+    ],
+    "BEN": [
+        {
+            "Country": "Benin ~BEN",
+            "NOC": "BEN"
+        }
+    ],
+    "GHA": [
+        {
+            "Country": "Ghana ~GHA",
+            "NOC": "GHA"
+        }
+    ],
+    "SOM": [
+        {
+            "Country": "Somalia ~SOM",
+            "NOC": "SOM"
+        }
+    ],
+    "NER": [
+        {
+            "Country": "Niger ~NER",
+            "NOC": "NER"
+        }
+    ],
+    "MLI": [
+        {
+            "Country": "Mali ~MLI",
+            "NOC": "MLI"
+        }
+    ],
+    "GBR": [
+        {
+            "Country": "Great Britain ~GBR",
+            "NOC": "GBR"
+        }
+    ],
+    "CHE": [
+        {
+            "Country": "Switzerland ~CHE",
+            "NOC": "CHE"
+        }
+    ],
+    "IND": [
+        {
+            "Country": "India ~IND",
+            "NOC": "IND"
+        }
+    ],
+    "POL": [
+        {
+            "Country": "Poland ~POL",
+            "NOC": "POL"
+        }
+    ],
+    "CRI": [
+        {
+            "Country": "Costa Rica ~CRI",
+            "NOC": "CRI"
+        }
+    ],
+    "PAN": [
+        {
+            "Country": "Panama ~PAN",
+            "NOC": "PAN"
+        }
+    ],
+    "GEO": [
+        {
+            "Country": "Georgia ~GEO",
+            "NOC": "GEO"
+        }
+    ],
+    "SVN": [
+        {
+            "Country": "Slovenia ~SVN",
+            "NOC": "SVN"
+        }
+    ],
+    "GUY": [
+        {
+            "Country": "Guyana ~GUY",
+            "NOC": "GUY"
+        }
+    ],
+    "NZL": [
+        {
+            "Country": "New Zealand ~NZL",
+            "NOC": "NZL"
+        },
+        {
+            "Country": "Cook Islands ~NZL",
+            "NOC": "NZL"
+        }
+    ],
+    "PRT": [
+        {
+            "Country": "Portugal ~PRT",
+            "NOC": "PRT"
+        }
+    ],
+    "PRY": [
+        {
+            "Country": "Paraguay ~PRY",
+            "NOC": "PRY"
+        }
+    ],
+    "AGO": [
+        {
+            "Country": "Angola ~AGO",
+            "NOC": "AGO"
+        }
+    ],
+    "VEN": [
+        {
+            "Country": "Venezuela ~VEN",
+            "NOC": "VEN"
+        }
+    ],
+    "COL": [
+        {
+            "Country": "Colombia ~COL",
+            "NOC": "COL"
+        }
+    ],
+    "FRG": [
+        {
+            "Country": "West Germany ~FRG",
+            "NOC": "FRG"
+        }
+    ],
+    "BGD": [
+        {
+            "Country": "Bangladesh ~BGD",
+            "NOC": "BGD"
+        }
+    ],
+    "PER": [
+        {
+            "Country": "Peru ~PER",
+            "NOC": "PER"
+        }
+    ],
+    "URY": [
+        {
+            "Country": "Uruguay ~URY",
+            "NOC": "URY"
+        }
+    ],
+    "SLV": [
+        {
+            "Country": "El Salvador ~SLV",
+            "NOC": "SLV"
+        }
+    ],
+    "PRI": [
+        {
+            "Country": "Puerto Rico ~PRI",
+            "NOC": "PRI"
+        }
+    ],
+    "UGA": [
+        {
+            "Country": "Uganda ~UGA",
+            "NOC": "UGA"
+        }
+    ],
+    "HND": [
+        {
+            "Country": "Honduras ~HND",
+            "NOC": "HND"
+        }
+    ],
+    "ECU": [
+        {
+            "Country": "Ecuador ~ECU",
+            "NOC": "ECU"
+        }
+    ],
+    "TKM": [
+        {
+            "Country": "Turkmenistan ~TKM",
+            "NOC": "TKM"
+        }
+    ],
+    "MUS": [
+        {
+            "Country": "Mauritius ~MUS",
+            "NOC": "MUS"
+        }
+    ],
+    "SYC": [
+        {
+            "Country": "Seychelles ~SYC",
+            "NOC": "SYC"
+        }
+    ],
+    "CZE": [
+        {
+            "Country": "Czechoslovakia ~CZE",
+            "NOC": "CZE"
+        },
+        {
+            "Country": "Czech Republic ~CZE",
+            "NOC": "CZE"
+        }
+    ],
+    "MRT": [
+        {
+            "Country": "Mauritania ~MRT",
+            "NOC": "MRT"
+        }
+    ],
+    "KNA": [
+        {
+            "Country": "Saint Kitts and Nevis ~KNA",
+            "NOC": "KNA"
+        }
+    ],
+    "TTO": [
+        {
+            "Country": "Trinidad and Tobago ~TTO",
+            "NOC": "TTO"
+        },
+        {
+            "Country": "West Indies Federation ~TTO",
+            "NOC": "TTO"
+        }
+    ],
+    "DOM": [
+        {
+            "Country": "Dominican Republic ~DOM",
+            "NOC": "DOM"
+        }
+    ],
+    "VCT": [
+        {
+            "Country": "Saint Vincent and the Grenadines ~VCT",
+            "NOC": "VCT"
+        }
+    ],
+    "JAM": [
+        {
+            "Country": "Jamaica ~JAM",
+            "NOC": "JAM"
+        }
+    ],
+    "LBR": [
+        {
+            "Country": "Liberia ~LBR",
+            "NOC": "LBR"
+        }
+    ],
+    "SUR": [
+        {
+            "Country": "Suriname ~SUR",
+            "NOC": "SUR"
+        }
+    ],
+    "NPL": [
+        {
+            "Country": "Nepal ~NPL",
+            "NOC": "NPL"
+        }
+    ],
+    "MNG": [
+        {
+            "Country": "Mongolia ~MNG",
+            "NOC": "MNG"
+        }
+    ],
+    "PLW": [
+        {
+            "Country": "Palau ~PLW",
+            "NOC": "PLW"
+        }
+    ],
+    "LTU": [
+        {
+            "Country": "Lithuania ~LTU",
+            "NOC": "LTU"
+        }
+    ],
+    "MCO": [
+        {
+            "Country": "Monaco ~MCO",
+            "NOC": "MCO"
+        }
+    ],
+    "TGO": [
+        {
+            "Country": "Togo ~TGO",
+            "NOC": "TGO"
+        }
+    ],
+    "NAM": [
+        {
+            "Country": "Namibia ~NAM",
+            "NOC": "NAM"
+        }
+    ],
+    "SXM": [
+        {
+            "Country": "Netherlands Antilles ~SXM",
+            "NOC": "SXM"
+        }
+    ],
+    "UKR": [
+        {
+            "Country": "Ukraine ~UKR",
+            "NOC": "UKR"
+        }
+    ],
+    "ISL": [
+        {
+            "Country": "Iceland ~ISL",
+            "NOC": "ISL"
+        }
+    ],
+    "ASM": [
+        {
+            "Country": "American Samoa ~ASM",
+            "NOC": "ASM"
+        }
+    ],
+    "AUT": [
+        {
+            "Country": "Austria ~AUT",
+            "NOC": "AUT"
+        }
+    ],
+    "WSM": [
+        {
+            "Country": "Samoa ~WSM",
+            "NOC": "WSM"
+        }
+    ],
+    "RWA": [
+        {
+            "Country": "Rwanda ~RWA",
+            "NOC": "RWA"
+        }
+    ],
+    "HRV": [
+        {
+            "Country": "Croatia ~HRV",
+            "NOC": "HRV"
+        }
+    ],
+    "DMA": [
+        {
+            "Country": "Dominica ~DMA",
+            "NOC": "DMA"
+        }
+    ],
+    "HTI": [
+        {
+            "Country": "Haiti ~HTI",
+            "NOC": "HTI"
+        }
+    ],
+    "DNK": [
+        {
+            "Country": "Denmark ~DNK",
+            "NOC": "DNK"
+        }
+    ],
+    "MLT": [
+        {
+            "Country": "Malta ~MLT",
+            "NOC": "MLT"
+        }
+    ],
+    "LUX": [
+        {
+            "Country": "Luxembourg ~LUX",
+            "NOC": "LUX"
+        }
+    ],
+    "CYP": [
+        {
+            "Country": "Cyprus ~CYP",
+            "NOC": "CYP"
+        }
+    ],
+    "GIN": [
+        {
+            "Country": "Guinea ~GIN",
+            "NOC": "GIN"
+        }
+    ],
+    "BLZ": [
+        {
+            "Country": "Belize ~BLZ",
+            "NOC": "BLZ"
+        }
+    ],
+    "BMU": [
+        {
+            "Country": "Bermuda ~BMU",
+            "NOC": "BMU"
+        }
+    ],
+    "MNE": [
+        {
+            "Country": "Serbia and Montenegro ~MNE",
+            "NOC": "MNE"
+        },
+        {
+            "Country": "Montenegro ~MNE",
+            "NOC": "MNE"
+        }
+    ],
+    "SLE": [
+        {
+            "Country": "Sierra Leone ~SLE",
+            "NOC": "SLE"
+        }
+    ],
+    "PNG": [
+        {
+            "Country": "Papua New Guinea ~PNG",
+            "NOC": "PNG"
+        }
+    ],
+    "AFG": [
+        {
+            "Country": "Afghanistan ~AFG",
+            "NOC": "AFG"
+        }
+    ],
+    "IOA": [
+        {
+            "Country": "Individual Olympic Athletes ~IOA",
+            "NOC": "IOA"
+        }
+    ],
+    "OMN": [
+        {
+            "Country": "Oman ~OMN",
+            "NOC": "OMN"
+        }
+    ],
+    "FJI": [
+        {
+            "Country": "Fiji ~FJI",
+            "NOC": "FJI"
+        }
+    ],
+    "VUT": [
+        {
+            "Country": "Vanuatu ~VUT",
+            "NOC": "VUT"
+        }
+    ],
+    "MDA": [
+        {
+            "Country": "Moldova ~MDA",
+            "NOC": "MDA"
+        }
+    ],
+    "GTM": [
+        {
+            "Country": "Guatemala ~GTM",
+            "NOC": "GTM"
+        }
+    ],
+    "BIH": [
+        {
+            "Country": "Yugoslavia ~BIH",
+            "NOC": "BIH"
+        },
+        {
+            "Country": "Bosnia and Herzegovina ~BIH",
+            "NOC": "BIH"
+        }
+    ],
+    "LVA": [
+        {
+            "Country": "Latvia ~LVA",
+            "NOC": "LVA"
+        }
+    ],
+    "SRB": [
+        {
+            "Country": "Serbia ~SRB",
+            "NOC": "SRB"
+        }
+    ],
+    "VGB": [
+        {
+            "Country": "British Virgin Islands ~VGB",
+            "NOC": "VGB"
+        }
+    ],
+    "MOZ": [
+        {
+            "Country": "Mozambique ~MOZ",
+            "NOC": "MOZ"
+        }
+    ],
+    "VIR": [
+        {
+            "Country": "United States Virgin Islands ~VIR",
+            "NOC": "VIR"
+        }
+    ],
+    "CAF": [
+        {
+            "Country": "Central African Republic ~CAF",
+            "NOC": "CAF"
+        }
+    ],
+    "MDG": [
+        {
+            "Country": "Madagascar ~MDG",
+            "NOC": "MDG"
+        }
+    ],
+    "GUM": [
+        {
+            "Country": "Guam ~GUM",
+            "NOC": "GUM"
+        }
+    ],
+    "SVK": [
+        {
+            "Country": "Slovakia ~SVK",
+            "NOC": "SVK"
+        }
+    ],
+    "IRL": [
+        {
+            "Country": "Ireland ~IRL",
+            "NOC": "IRL"
+        }
+    ],
+    "BRB": [
+        {
+            "Country": "Barbados ~BRB",
+            "NOC": "BRB"
+        }
+    ],
+    "GNB": [
+        {
+            "Country": "Guinea Bissau ~GNB",
+            "NOC": "GNB"
+        }
+    ],
+    "THA": [
+        {
+            "Country": "Thailand ~THA",
+            "NOC": "THA"
+        }
+    ],
+    "TLS": [
+        {
+            "Country": "Timor Leste ~TLS",
+            "NOC": "TLS"
+        }
+    ],
+    "COD": [
+        {
+            "Country": "Congo (Kinshasa) ~COD",
+            "NOC": "COD"
+        }
+    ],
+    "GAB": [
+        {
+            "Country": "Gabon ~GAB",
+            "NOC": "GAB"
+        }
+    ],
+    "BHS": [
+        {
+            "Country": "Bahamas ~BHS",
+            "NOC": "BHS"
+        }
+    ],
+    "SMR": [
+        {
+            "Country": "San Marino ~SMR",
+            "NOC": "SMR"
+        }
+    ],
+    "LAO": [
+        {
+            "Country": "Laos ~LAO",
+            "NOC": "LAO"
+        }
+    ],
+    "BWA": [
+        {
+            "Country": "Botswana ~BWA",
+            "NOC": "BWA"
+        }
+    ],
+    "ROT": [
+        {
+            "Country": "Refugee Olympic Athletes ~ROT",
+            "NOC": "ROT"
+        }
+    ],
+    "KOR": [
+        {
+            "Country": "South Korea ~KOR",
+            "NOC": "KOR"
+        }
+    ],
+    "PRK": [
+        {
+            "Country": "North Korea ~PRK",
+            "NOC": "PRK"
+        }
+    ],
+    "SLB": [
+        {
+            "Country": "Solomon Islands ~SLB",
+            "NOC": "SLB"
+        }
+    ],
+    "SEN": [
+        {
+            "Country": "Senegal ~SEN",
+            "NOC": "SEN"
+        }
+    ],
+    "CPV": [
+        {
+            "Country": "Cape Verde ~CPV",
+            "NOC": "CPV"
+        }
+    ],
+    "GNQ": [
+        {
+            "Country": "Equatorial Guinea ~GNQ",
+            "NOC": "GNQ"
+        }
+    ],
+    "BOL": [
+        {
+            "Country": "Bolivia ~BOL",
+            "NOC": "BOL"
+        }
+    ],
+    "ATG": [
+        {
+            "Country": "Antigua and Barbuda ~ATG",
+            "NOC": "ATG"
+        }
+    ],
+    "AND": [
+        {
+            "Country": "Andorra ~AND",
+            "NOC": "AND"
+        }
+    ],
+    "ZWE": [
+        {
+            "Country": "Zimbabwe ~ZWE",
+            "NOC": "ZWE"
+        },
+        {
+            "Country": "Rhodesia ~ZWE",
+            "NOC": "ZWE"
+        }
+    ],
+    "GRD": [
+        {
+            "Country": "Grenada ~GRD",
+            "NOC": "GRD"
+        }
+    ],
+    "HKG": [
+        {
+            "Country": "Hong Kong ~HKG",
+            "NOC": "HKG"
+        }
+    ],
+    "LCA": [
+        {
+            "Country": "Saint Lucia ~LCA",
+            "NOC": "LCA"
+        }
+    ],
+    "FSM": [
+        {
+            "Country": "Federated States of Micronesia ~FSM",
+            "NOC": "FSM"
+        }
+    ],
+    "MMR": [
+        {
+            "Country": "Myanmar ~MMR",
+            "NOC": "MMR"
+        }
+    ],
+    "MWI": [
+        {
+            "Country": "Malawi ~MWI",
+            "NOC": "MWI"
+        }
+    ],
+    "ZMB": [
+        {
+            "Country": "Zambia ~ZMB",
+            "NOC": "ZMB"
+        }
+    ],
+    "STP": [
+        {
+            "Country": "Sao Tome and Principe ~STP",
+            "NOC": "STP"
+        }
+    ],
+    "CYM": [
+        {
+            "Country": "Cayman Islands ~CYM",
+            "NOC": "CYM"
+        }
+    ],
+    "MKD": [
+        {
+            "Country": "Macedonia ~MKD",
+            "NOC": "MKD"
+        }
+    ],
+    "LIE": [
+        {
+            "Country": "Liechtenstein ~LIE",
+            "NOC": "LIE"
+        }
+    ],
+    "GMB": [
+        {
+            "Country": "Gambia ~GMB",
+            "NOC": "GMB"
+        }
+    ],
+    "ALB": [
+        {
+            "Country": "Albania ~ALB",
+            "NOC": "ALB"
+        }
+    ],
+    "SWZ": [
+        {
+            "Country": "Swaziland ~SWZ",
+            "NOC": "SWZ"
+        }
+    ],
+    "BFA": [
+        {
+            "Country": "Burkina Faso ~BFA",
+            "NOC": "BFA"
+        }
+    ],
+    "BDI": [
+        {
+            "Country": "Burundi ~BDI",
+            "NOC": "BDI"
+        }
+    ],
+    "ABW": [
+        {
+            "Country": "Aruba ~ABW",
+            "NOC": "ABW"
+        }
+    ],
+    "NRU": [
+        {
+            "Country": "Nauru ~NRU",
+            "NOC": "NRU"
+        }
+    ],
+    "VNM": [
+        {
+            "Country": "South Vietnam ~VNM",
+            "NOC": "VNM"
+        },
+        {
+            "Country": "Vietnam ~VNM",
+            "NOC": "VNM"
+        }
+    ],
+    "KHM": [
+        {
+            "Country": "Cambodia ~KHM",
+            "NOC": "KHM"
+        }
+    ],
+    "BTN": [
+        {
+            "Country": "Bhutan ~BTN",
+            "NOC": "BTN"
+        }
+    ],
+    "MHL": [
+        {
+            "Country": "Marshall Islands ~MHL",
+            "NOC": "MHL"
+        }
+    ],
+    "KIR": [
+        {
+            "Country": "Kiribati ~KIR",
+            "NOC": "KIR"
+        }
+    ],
+    "TUV": [
+        {
+            "Country": "Tuvalu ~TUV",
+            "NOC": "TUV"
+        }
+    ],
+    "TON": [
+        {
+            "Country": "Tonga ~TON",
+            "NOC": "TON"
+        }
+    ],
+    "XKX": [
+        {
+            "Country": "Kosovo ~XKX",
+            "NOC": "XKX"
+        }
+    ],
+    "SSD": [
+        {
+            "Country": "South Sudan ~SSD",
+            "NOC": "SSD"
+        }
+    ],
+    "LSO": [
+        {
+            "Country": "Lesotho ~LSO",
+            "NOC": "LSO"
+        }
+    ]
+}
