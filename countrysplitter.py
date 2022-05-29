@@ -1,6 +1,4 @@
 import pandas as pd
-import csv
-import json
 
 countries_csv = pd.read_csv('countries.csv',index_col=False)
 data_csv = pd.read_csv('Data.csv',index_col=False)
