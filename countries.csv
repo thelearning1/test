@@ -1,0 +1,224 @@
+Country,NOC
+China ~CHN,CHN
+Finland ~FIN,FIN
+Norway ~NOR,NOR
+Romania ~ROU,ROU
+Netherlands ~NLD,NLD
+France ~FRA,FRA
+Morocco ~MAR,MAR
+Estonia ~EST,EST
+Spain ~ESP,ESP
+Egypt ~EGY,EGY
+Bulgaria ~BGR,BGR
+Italy ~ITA,ITA
+Chad ~TCD,TCD
+Azerbaijan ~AZE,AZE
+Sudan ~SDN,SDN
+Russia ~RUS,RUS
+Argentina ~ARG,ARG
+Cuba ~CUB,CUB
+Belarus ~BLR,BLR
+Greece ~GRC,GRC
+Cameroon ~CMR,CMR
+Turkey ~TUR,TUR
+Mexico ~MEX,MEX
+Chile ~CHL,CHL
+United States ~USA,USA
+Soviet Union ~URS,URS
+Nicaragua ~NIC,NIC
+Hungary ~HUN,HUN
+Nigeria ~NGA,NGA
+Algeria ~DZA,DZA
+Kuwait ~KWT,KWT
+Bahrain ~BHR,BHR
+Pakistan ~PAK,PAK
+Iraq ~IRQ,IRQ
+United Arab Republic ~UAR,UAR
+Lebanon ~LBN,LBN
+Qatar ~QAT,QAT
+Malaysia ~MYS,MYS
+Iran ~IRN,IRN
+Australia ~AUS,AUS
+South Africa ~ZAF,ZAF
+Canada ~CAN,CAN
+Eritrea ~ERI,ERI
+Tanzania ~TZA,TZA
+Jordan ~JOR,JOR
+Tunisia ~TUN,TUN
+Libya ~LBY,LBY
+Belgium ~BEL,BEL
+Djibouti ~DJI,DJI
+Palestine ~PLE,PLE
+Comoros ~COM,COM
+Kazakhstan ~KAZ,KAZ
+Brunei ~BRN,BRN
+Saudi Arabia ~SAU,SAU
+Syria ~SYR,SYR
+Maldives ~MDV,MDV
+Ethiopia ~ETH,ETH
+United Arab Emirates ~ARE,ARE
+North Yemen ~YEM,YEM
+Indonesia ~IDN,IDN
+Philippines ~PHL,PHL
+Singapore ~SGP,SGP
+Uzbekistan ~UZB,UZB
+Kyrgyzstan ~KGZ,KGZ
+Tajikistan ~TJK,TJK
+Unified Team ~EUN,EUN
+Japan ~JPN,JPN
+Congo (Brazzaville) ~COG,COG
+Brazil ~BRA,BRA
+East Germany ~GDR,GDR
+Germany ~DEU,DEU
+Israel ~ISR,ISR
+Sweden ~SWE,SWE
+Sri Lanka ~LKA,LKA
+Armenia ~ARM,ARM
+Cote d'Ivoire ~CIV,CIV
+Kenya ~KEN,KEN
+Benin ~BEN,BEN
+Ghana ~GHA,GHA
+Somalia ~SOM,SOM
+Niger ~NER,NER
+Mali ~MLI,MLI
+Great Britain ~GBR,GBR
+Switzerland ~CHE,CHE
+India ~IND,IND
+Poland ~POL,POL
+Costa Rica ~CRI,CRI
+Panama ~PAN,PAN
+Georgia ~GEO,GEO
+Slovenia ~SVN,SVN
+Guyana ~GUY,GUY
+New Zealand ~NZL,NZL
+Portugal ~PRT,PRT
+Paraguay ~PRY,PRY
+Angola ~AGO,AGO
+Venezuela ~VEN,VEN
+Colombia ~COL,COL
+West Germany ~FRG,FRG
+Bangladesh ~BGD,BGD
+Peru ~PER,PER
+Uruguay ~URY,URY
+El Salvador ~SLV,SLV
+Puerto Rico ~PRI,PRI
+Uganda ~UGA,UGA
+Honduras ~HND,HND
+Ecuador ~ECU,ECU
+Turkmenistan ~TKM,TKM
+Mauritius ~MUS,MUS
+Seychelles ~SYC,SYC
+Czechoslovakia ~CZE,CZE
+Mauritania ~MRT,MRT
+Saint Kitts and Nevis ~KNA,KNA
+Trinidad and Tobago ~TTO,TTO
+Dominican Republic ~DOM,DOM
+Saint Vincent and the Grenadines ~VCT,VCT
+Jamaica ~JAM,JAM
+Liberia ~LBR,LBR
+Suriname ~SUR,SUR
+Nepal ~NPL,NPL
+Mongolia ~MNG,MNG
+Palau ~PLW,PLW
+Lithuania ~LTU,LTU
+Monaco ~MCO,MCO
+Togo ~TGO,TGO
+Namibia ~NAM,NAM
+Netherlands Antilles ~SXM,SXM
+Ukraine ~UKR,UKR
+Iceland ~ISL,ISL
+American Samoa ~ASM,ASM
+Austria ~AUT,AUT
+Samoa ~WSM,WSM
+Rwanda ~RWA,RWA
+Croatia ~HRV,HRV
+Dominica ~DMA,DMA
+Haiti ~HTI,HTI
+Denmark ~DNK,DNK
+Malta ~MLT,MLT
+Luxembourg ~LUX,LUX
+Cyprus ~CYP,CYP
+Guinea ~GIN,GIN
+Belize ~BLZ,BLZ
+South Yemen ~YEM,YEM
+Bermuda ~BMU,BMU
+Serbia and Montenegro ~MNE,MNE
+Sierra Leone ~SLE,SLE
+Papua New Guinea ~PNG,PNG
+Afghanistan ~AFG,AFG
+Yemen ~YEM,YEM
+Individual Olympic Athletes ~IOA,IOA
+Oman ~OMN,OMN
+Fiji ~FJI,FJI
+Vanuatu ~VUT,VUT
+Moldova ~MDA,MDA
+Guatemala ~GTM,GTM
+Yugoslavia ~BIH,BIH
+Latvia ~LVA,LVA
+Serbia ~SRB,SRB
+British Virgin Islands ~VGB,VGB
+Mozambique ~MOZ,MOZ
+United States Virgin Islands ~VIR,VIR
+Central African Republic ~CAF,CAF
+Madagascar ~MDG,MDG
+Malaya ~MYS,MYS
+Bosnia and Herzegovina ~BIH,BIH
+Guam ~GUM,GUM
+Slovakia ~SVK,SVK
+Ireland ~IRL,IRL
+Barbados ~BRB,BRB
+Guinea Bissau ~GNB,GNB
+Thailand ~THA,THA
+Timor Leste ~TLS,TLS
+Congo (Kinshasa) ~COD,COD
+Gabon ~GAB,GAB
+Bahamas ~BHS,BHS
+San Marino ~SMR,SMR
+Laos ~LAO,LAO
+Botswana ~BWA,BWA
+Refugee Olympic Athletes ~ROT,ROT
+South Korea ~KOR,KOR
+North Korea ~PRK,PRK
+Solomon Islands ~SLB,SLB
+Senegal ~SEN,SEN
+Cape Verde ~CPV,CPV
+Czech Republic ~CZE,CZE
+Equatorial Guinea ~GNQ,GNQ
+Bolivia ~BOL,BOL
+Antigua and Barbuda ~ATG,ATG
+Andorra ~AND,AND
+Zimbabwe ~ZWE,ZWE
+Grenada ~GRD,GRD
+Hong Kong ~HKG,HKG
+Saint Lucia ~LCA,LCA
+Federated States of Micronesia ~FSM,FSM
+Myanmar ~MMR,MMR
+Malawi ~MWI,MWI
+Zambia ~ZMB,ZMB
+Rhodesia ~ZWE,ZWE
+Chinese Taipei ~CHN,CHN
+Sao Tome and Principe ~STP,STP
+Cayman Islands ~CYM,CYM
+Macedonia ~MKD,MKD
+Liechtenstein ~LIE,LIE
+Montenegro ~MNE,MNE
+Gambia ~GMB,GMB
+Cook Islands ~NZL,NZL
+Albania ~ALB,ALB
+West Indies Federation ~TTO,TTO
+Swaziland ~SWZ,SWZ
+Burkina Faso ~BFA,BFA
+Burundi ~BDI,BDI
+Aruba ~ABW,ABW
+Nauru ~NRU,NRU
+South Vietnam ~VNM,VNM
+Vietnam ~VNM,VNM
+Cambodia ~KHM,KHM
+Bhutan ~BTN,BTN
+Marshall Islands ~MHL,MHL
+Kiribati ~KIR,KIR
+Tuvalu ~TUV,TUV
+Tonga ~TON,TON
+Kosovo ~XKX,XKX
+South Sudan ~SSD,SSD
+Lesotho ~LSO,LSO
